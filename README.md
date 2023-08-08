@@ -14,21 +14,32 @@ The output json object will be compliant to the [force-graph](https://github.com
 {
     "nodes": [
         {
-          "id": "id1",
-          "name": "name1",
+          "id": "learning objective (1145001_LO1)",
+          "name": "1145001_LO1",
           "val": 1
         },
         {
-          "id": "id2",
-          "name": "name2",
+          "id": "topic (การทดสอบสมมติฐาน)",
+          "name": "การทดสอบสมมติฐาน",
           "val": 10
         },
         ...
     ],
     "links": [
         {
-            "source": "id1",
-            "target": "id2"
+            "source": "course (11450001)",
+            "target": "learning_objective (11450001_LO2)",
+            "name": "hasLearningOf"
+        },
+        {
+            "source": "learning_objective (11450001_LO2)",
+            "target": "topic (การทดสอบสมมติฐาน)",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "learning_objective (11450001_LO2)",
+            "target": "topic (การทดสอบสมมติฐาน)",
+            "name": "isabletoApplyKnowledgeOf"
         },
         ...
     ]
