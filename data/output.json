@@ -2003,39 +2003,59 @@
     ],
     "links": [
         {
-            "source": "LearningObjectives (1145002_LO1)",
-            "target": "1145002_LO1",
-            "name": "isabletoUnderstandKnowledgeOf"
+            "source": "Topics (การแปลงข้อมูลและการโหลดข้อมูล)",
+            "target": "การแปลงข้อมูลและการโหลดข้อมูล",
+            "name": "continueFrom"
         },
         {
-            "source": "LearningObjectives (1145103_LO5)",
-            "target": "1145103_LO5",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145208_LO4)",
-            "target": "1145208_LO4",
+            "source": "LearningObjectives (1145000_LO9)",
+            "target": "1145000_LO9",
             "name": "isabletoAnalyzeProblemOf"
         },
         {
-            "source": "LearningObjectives (1145103_LO1)",
-            "target": "1145103_LO1",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "Courses (1145006)",
-            "target": "1145006",
-            "name": "hasLearningOf"
-        },
-        {
-            "source": "LearningObjectives (1145007_LO3)",
-            "target": "1145007_LO3",
+            "source": "LearningObjectives (1145007_LO2)",
+            "target": "1145007_LO2",
             "name": "isabletoUnderstandKnowledgeOf"
         },
         {
-            "source": "Topics (โครงสร้างข้อมูลแบบไม่เชิงเส้น)",
-            "target": "โครงสร้างข้อมูลแบบไม่เชิงเส้น",
-            "name": "continueFrom"
+            "source": "LearningObjectives (1145207_LO1)",
+            "target": "1145207_LO1",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145006_LO1)",
+            "target": "1145006_LO1",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "LearningObjectives (1141001_LO2)",
+            "target": "1141001_LO2",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145000_LO8)",
+            "target": "1145000_LO8",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145000_LO5)",
+            "target": "1145000_LO5",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "LearningObjectives (1141001_LO2)",
+            "target": "1141001_LO2",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "LearningObjectives (1145000_LO6)",
+            "target": "1145000_LO6",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145006_LO4)",
+            "target": "1145006_LO4",
+            "name": "isabletoAnalyzeProblemOf"
         },
         {
             "source": "Topics (ข้อความและนิพจน์ทั่วไป)",
@@ -2043,344 +2063,19 @@
             "name": "continueFrom"
         },
         {
-            "source": "Topics (คลาสคอลเลคชันและคลาสทั่วไป)",
-            "target": "คลาสคอลเลคชันและคลาสทั่วไป",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145002_LO10)",
-            "target": "1145002_LO10",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145002_LO5)",
-            "target": "1145002_LO5",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "LearningObjectives (1145004_LO5)",
-            "target": "1145004_LO5",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "LearningObjectives (1145000_LO6)",
-            "target": "1145000_LO6",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "LearningObjectives (1145213_LO7)",
-            "target": "1145213_LO7",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "Topics (การสร้างโปรแกรมประยุกต์บนคลาวด์)",
-            "target": "การสร้างโปรแกรมประยุกต์บนคลาวด์",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145000_LO6)",
-            "target": "1145000_LO6",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "Topics (การประยุกต์ใช้เหมืองข้อมูล)",
-            "target": "การประยุกต์ใช้เหมืองข้อมูล",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1141001_LO1)",
-            "target": "1141001_LO1",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "LearningObjectives (1145001_LO3)",
-            "target": "1145001_LO3",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "LearningObjectives (1145103_LO7)",
-            "target": "1145103_LO7",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "LearningObjectives (1145216_LO2)",
-            "target": "1145216_LO2",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "Topics (รูปแบบมาร์คอฟ)",
-            "target": "รูปแบบมาร์คอฟ",
-            "name": "continueFrom"
-        },
-        {
-            "source": "Topics (การสอบทานการวัดซอฟต์แวร์)",
-            "target": "การสอบทานการวัดซอฟต์แวร์",
-            "name": "continueFrom"
-        },
-        {
-            "source": "Topics (การเข้าใจภาษาธรรมชาติ)",
-            "target": "การเข้าใจภาษาธรรมชาติ",
-            "name": "continueFrom"
-        },
-        {
-            "source": "Topics (แผนภาพต้นไม้)",
-            "target": "แผนภาพต้นไม้",
-            "name": "continueFrom"
-        },
-        {
-            "source": "Courses (1145002)",
-            "target": "1145002",
-            "name": "hasLearningOf"
-        },
-        {
-            "source": "LearningObjectives (1145002_LO9)",
-            "target": "1145002_LO9",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "LearningObjectives (1145220_LO6)",
-            "target": "1145220_LO6",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145202_LO4)",
-            "target": "1145202_LO4",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145202_LO1)",
-            "target": "1145202_LO1",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "Topics (การวิเคราะห์ความต้องการ)",
-            "target": "การวิเคราะห์ความต้องการ",
-            "name": "continueFrom"
-        },
-        {
-            "source": "Topics (กระบวนการพัฒนานวัตกรรมซอฟต์แวร์)",
-            "target": "กระบวนการพัฒนานวัตกรรมซอฟต์แวร์",
-            "name": "continueFrom"
-        },
-        {
-            "source": "Topics (ฟังก์ชัน)",
-            "target": "ฟังก์ชัน",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145000_LO10)",
-            "target": "1145000_LO10",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1141001_LO2)",
-            "target": "1141001_LO2",
+            "source": "LearningObjectives (1145003_LO2)",
+            "target": "1145003_LO2",
             "name": "isabletoUnderstandKnowledgeOf"
         },
         {
-            "source": "LearningObjectives (1145000_LO3)",
-            "target": "1145000_LO3",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "Topics (การแทนความรู้)",
-            "target": "การแทนความรู้",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145203_LO3)",
-            "target": "1145203_LO3",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "Topics (กระบวนการในการเก็บรักษาข้อมูล)",
-            "target": "กระบวนการในการเก็บรักษาข้อมูล",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145002_LO8)",
-            "target": "1145002_LO8",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145217_LO2)",
-            "target": "1145217_LO2",
+            "source": "LearningObjectives (1145007_LO4)",
+            "target": "1145007_LO4",
             "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "Topics (การสืบทอด)",
-            "target": "การสืบทอด",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145006_LO6)",
-            "target": "1145006_LO6",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "Topics (เทคนิคในการสร้างโมเดลสำหรับการตัดสินใจ)",
-            "target": "เทคนิคในการสร้างโมเดลสำหรับการตัดสินใจ",
-            "name": "continueFrom"
-        },
-        {
-            "source": "Topics (การวิเคราะห์ทางความหมาย)",
-            "target": "การวิเคราะห์ทางความหมาย",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145002_LO2)",
-            "target": "1145002_LO2",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145006_LO4)",
-            "target": "1145006_LO4",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "Topics (เครื่องมือในการเรียนรู้เชิงลึก)",
-            "target": "เครื่องมือในการเรียนรู้เชิงลึก",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145202_LO2)",
-            "target": "1145202_LO2",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "Topics (มัลติเทรดดิง)",
-            "target": "มัลติเทรดดิง",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145004_LO4)",
-            "target": "1145004_LO4",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "LearningObjectives (1145217_LO5)",
-            "target": "1145217_LO5",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145215_LO4)",
-            "target": "1145215_LO4",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145217_LO3)",
-            "target": "1145217_LO3",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "LearningObjectives (1145217_LO8)",
-            "target": "1145217_LO8",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "LearningObjectives (1145102_LO6)",
-            "target": "1145102_LO6",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "Topics (สแตก)",
-            "target": "สแตก",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145213_LO6)",
-            "target": "1145213_LO6",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145215_LO3)",
-            "target": "1145215_LO3",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "Topics (การบริการข้อมูลพื้นที่และระบบฝังตัวอื่น)",
-            "target": "การบริการข้อมูลพื้นที่และระบบฝังตัวอื่น",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145207_LO2)",
-            "target": "1145207_LO2",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "Topics (การพัฒนาโครงงานเชิงอ็อบเจกต์)",
-            "target": "การพัฒนาโครงงานเชิงอ็อบเจกต์",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145007_LO1)",
-            "target": "1145007_LO1",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145103_LO4)",
-            "target": "1145103_LO4",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "Topics (ทรี)",
-            "target": "ทรี",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1141002_LO1)",
-            "target": "1141002_LO1",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "LearningObjectives (1145001_LO4)",
-            "target": "1145001_LO4",
-            "name": "isabletoUnderstandKnowledgeOf"
         },
         {
             "source": "LearningObjectives (1145202_LO5)",
             "target": "1145202_LO5",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "Topics (อุปกรณ์รับส่งข้อมูล)",
-            "target": "อุปกรณ์รับส่งข้อมูล",
-            "name": "continueFrom"
-        },
-        {
-            "source": "Topics (การวางแผนและการกำหนดเวลาโครงงาน)",
-            "target": "การวางแผนและการกำหนดเวลาโครงงาน",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145220_LO8)",
-            "target": "1145220_LO8",
             "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145207_LO4)",
-            "target": "1145207_LO4",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "LearningObjectives (1145207_LO1)",
-            "target": "1145207_LO1",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "LearningObjectives (1145216_LO5)",
-            "target": "1145216_LO5",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145004_LO4)",
-            "target": "1145004_LO4",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145102_LO1)",
-            "target": "1145102_LO1",
-            "name": "isabletoAnalyzeProblemOf"
         },
         {
             "source": "LearningObjectives (1141002_LO5)",
@@ -2388,878 +2083,8 @@
             "name": "isabletoAnalyzeProblemOf"
         },
         {
-            "source": "LearningObjectives (1145200_LO2)",
-            "target": "1145200_LO2",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145215_LO6)",
-            "target": "1145215_LO6",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "Topics (การสร้างซอฟต์แวร์)",
-            "target": "การสร้างซอฟต์แวร์",
-            "name": "continueFrom"
-        },
-        {
-            "source": "Topics (การจัดการไฟล์อินพุตเอาท์พุต)",
-            "target": "การจัดการไฟล์อินพุตเอาท์พุต",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145220_LO4)",
-            "target": "1145220_LO4",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145219_LO5)",
-            "target": "1145219_LO5",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "Topics (การออกแบบและวิเคราะห์การทดลอง)",
-            "target": "การออกแบบและวิเคราะห์การทดลอง",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145205_LO7)",
-            "target": "1145205_LO7",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145203_LO2)",
-            "target": "1145203_LO2",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145207_LO2)",
-            "target": "1145207_LO2",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145217_LO3)",
-            "target": "1145217_LO3",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "Topics (การวิเคราะห์ทางวากยสัมพันธ์)",
-            "target": "การวิเคราะห์ทางวากยสัมพันธ์",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145000_LO7)",
-            "target": "1145000_LO7",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "Topics (วิศวกรรมความต้องการ)",
-            "target": "วิศวกรรมความต้องการ",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145003_LO2)",
-            "target": "1145003_LO2",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "LearningObjectives (1145102_LO8)",
-            "target": "1145102_LO8",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "Topics (การประมวลผลรายการ)",
-            "target": "การประมวลผลรายการ",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145002_LO10)",
-            "target": "1145002_LO10",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145007_LO3)",
-            "target": "1145007_LO3",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145004_LO5)",
-            "target": "1145004_LO5",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "Topics (เทคนิคการแยกประโยคเบื้องต้น)",
-            "target": "เทคนิคการแยกประโยคเบื้องต้น",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1141001_LO2)",
-            "target": "1141001_LO2",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "LearningObjectives (1145213_LO4)",
-            "target": "1145213_LO4",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "LearningObjectives (1145208_LO1)",
-            "target": "1145208_LO1",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145217_LO3)",
-            "target": "1145217_LO3",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145220_LO7)",
-            "target": "1145220_LO7",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "Topics (การวิเคราะห์ความรู้สึก)",
-            "target": "การวิเคราะห์ความรู้สึก",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145004_LO6)",
-            "target": "1145004_LO6",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145210_LO3)",
-            "target": "1145210_LO3",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "Courses (1145007)",
-            "target": "1145007",
-            "name": "hasLearningOf"
-        },
-        {
-            "source": "Topics (การใช้ฮาดูป)",
-            "target": "การใช้ฮาดูป",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145200_LO5)",
-            "target": "1145200_LO5",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "Courses (1145219)",
-            "target": "1145219",
-            "name": "hasLearningOf"
-        },
-        {
-            "source": "LearningObjectives (1145210_LO1)",
-            "target": "1145210_LO1",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "LearningObjectives (1145003_LO4)",
-            "target": "1145003_LO4",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "Courses (1141001)",
-            "target": "1141001",
-            "name": "hasLearningOf"
-        },
-        {
-            "source": "LearningObjectives (1145217_LO7)",
-            "target": "1145217_LO7",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "LearningObjectives (1145215_LO5)",
-            "target": "1145215_LO5",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "LearningObjectives (1145000_LO8)",
-            "target": "1145000_LO8",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "LearningObjectives (1145210_LO2)",
-            "target": "1145210_LO2",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "LearningObjectives (1145000_LO10)",
-            "target": "1145000_LO10",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "Topics (การจำแนกประเภทข้อมูล)",
-            "target": "การจำแนกประเภทข้อมูล",
-            "name": "continueFrom"
-        },
-        {
-            "source": "Topics (พื้นฐานทางด้านภาษาศาสตร์)",
-            "target": "พื้นฐานทางด้านภาษาศาสตร์",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145205_LO2)",
-            "target": "1145205_LO2",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145210_LO4)",
-            "target": "1145210_LO4",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "Topics (การวิเคราะห์นวัตกรรมซอฟต์แวร์ด้วยแบบจำลองทางวิศวกรรมซอฟต์แวร์)",
-            "target": "การวิเคราะห์นวัตกรรมซอฟต์แวร์ด้วยแบบจำลองทางวิศวกรรมซอฟต์แวร์",
-            "name": "continueFrom"
-        },
-        {
-            "source": "Topics (การศึกษาความเป็นไปได้)",
-            "target": "การศึกษาความเป็นไปได้",
-            "name": "continueFrom"
-        },
-        {
-            "source": "Topics (ประเภทของข้อมูล)",
-            "target": "ประเภทของข้อมูล",
-            "name": "continueFrom"
-        },
-        {
-            "source": "Topics (แนวคิดเกี่ยวกับภาษาซีชาร์ปและดอทเน็ตเฟรมเวิรค์)",
-            "target": "แนวคิดเกี่ยวกับภาษาซีชาร์ปและดอทเน็ตเฟรมเวิรค์",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145213_LO3)",
-            "target": "1145213_LO3",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "LearningObjectives (1145219_LO8)",
-            "target": "1145219_LO8",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145000_LO1)",
-            "target": "1145000_LO1",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145001_LO6)",
-            "target": "1145001_LO6",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145006_LO3)",
-            "target": "1145006_LO3",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "LearningObjectives (1145102_LO8)",
-            "target": "1145102_LO8",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145103_LO2)",
-            "target": "1145103_LO2",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145220_LO8)",
-            "target": "1145220_LO8",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "Topics (ดีลิเกตและอีเวนต์)",
-            "target": "ดีลิเกตและอีเวนต์",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145205_LO3)",
-            "target": "1145205_LO3",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "Topics (ฟังก์ชันการตัดสิน)",
-            "target": "ฟังก์ชันการตัดสิน",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145208_LO5)",
-            "target": "1145208_LO5",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145216_LO3)",
-            "target": "1145216_LO3",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145002_LO3)",
-            "target": "1145002_LO3",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145205_LO2)",
-            "target": "1145205_LO2",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145007_LO4)",
-            "target": "1145007_LO4",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "LearningObjectives (1145208_LO1)",
-            "target": "1145208_LO1",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "LearningObjectives (1145202_LO3)",
-            "target": "1145202_LO3",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145205_LO3)",
-            "target": "1145205_LO3",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "Topics (ไวยากรณ์ไม่พึ่งบริบท)",
-            "target": "ไวยากรณ์ไม่พึ่งบริบท",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145003_LO1)",
-            "target": "1145003_LO1",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "LearningObjectives (1145220_LO5)",
-            "target": "1145220_LO5",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "Topics (คิว)",
-            "target": "คิว",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145004_LO1)",
-            "target": "1145004_LO1",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145208_LO3)",
-            "target": "1145208_LO3",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "Topics (หน่วยคำนวณและตรรกะ)",
-            "target": "หน่วยคำนวณและตรรกะ",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145207_LO2)",
-            "target": "1145207_LO2",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "LearningObjectives (1145102_LO7)",
-            "target": "1145102_LO7",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "Topics (สถาปัตยกรรมฐานข้อมูล)",
-            "target": "สถาปัตยกรรมฐานข้อมูล",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145007_LO7)",
-            "target": "1145007_LO7",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145002_LO9)",
-            "target": "1145002_LO9",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1141002_LO7)",
-            "target": "1141002_LO7",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "LearningObjectives (1141002_LO3)",
-            "target": "1141002_LO3",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "LearningObjectives (1145217_LO7)",
-            "target": "1145217_LO7",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145215_LO4)",
-            "target": "1145215_LO4",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145103_LO2)",
-            "target": "1145103_LO2",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "Topics (การวิเคราะห์และออกแบบฐานข้อมูล)",
-            "target": "การวิเคราะห์และออกแบบฐานข้อมูล",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145217_LO1)",
-            "target": "1145217_LO1",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145001_LO4)",
-            "target": "1145001_LO4",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "Topics (การติดตั้งฮาดูป)",
-            "target": "การติดตั้งฮาดูป",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145007_LO7)",
-            "target": "1145007_LO7",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "Topics (การกู้คืนและสำรองข้อมูล)",
-            "target": "การกู้คืนและสำรองข้อมูล",
-            "name": "continueFrom"
-        },
-        {
-            "source": "Topics (ลิงค์ลิสต์)",
-            "target": "ลิงค์ลิสต์",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145217_LO5)",
-            "target": "1145217_LO5",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145213_LO1)",
-            "target": "1145213_LO1",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "LearningObjectives (1145215_LO3)",
-            "target": "1145215_LO3",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145007_LO9)",
-            "target": "1145007_LO9",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "Topics (คำสั่งเพื่อกำหนดลำดับการทำงาน)",
-            "target": "คำสั่งเพื่อกำหนดลำดับการทำงาน",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145102_LO3)",
-            "target": "1145102_LO3",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145000_LO5)",
-            "target": "1145000_LO5",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145103_LO6)",
-            "target": "1145103_LO6",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "LearningObjectives (1145001_LO5)",
-            "target": "1145001_LO5",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "Courses (1145210)",
-            "target": "1145210",
-            "name": "hasLearningOf"
-        },
-        {
-            "source": "LearningObjectives (1145217_LO4)",
-            "target": "1145217_LO4",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "LearningObjectives (1145000_LO2)",
-            "target": "1145000_LO2",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145220_LO9)",
-            "target": "1145220_LO9",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145207_LO5)",
-            "target": "1145207_LO5",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145000_LO9)",
-            "target": "1145000_LO9",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145207_LO1)",
-            "target": "1145207_LO1",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "Topics (การได้มาซึ่งความต้องการและการประเมินความต้องการ)",
-            "target": "การได้มาซึ่งความต้องการและการประเมินความต้องการ",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145216_LO1)",
-            "target": "1145216_LO1",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "Courses (1145215)",
-            "target": "1145215",
-            "name": "hasLearningOf"
-        },
-        {
-            "source": "LearningObjectives (1145219_LO1)",
-            "target": "1145219_LO1",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145208_LO2)",
-            "target": "1145208_LO2",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "Topics (การพัฒนาโครงงานด้วยภาษาจาวา)",
-            "target": "การพัฒนาโครงงานด้วยภาษาจาวา",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1141002_LO6)",
-            "target": "1141002_LO6",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "LearningObjectives (1145213_LO5)",
-            "target": "1145213_LO5",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "LearningObjectives (1145219_LO1)",
-            "target": "1145219_LO1",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "Topics (รูปแบบข้อมูลสําหรับการเรียนรู้เชิงลึก)",
-            "target": "รูปแบบข้อมูลสําหรับการเรียนรู้เชิงลึก",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145007_LO1)",
-            "target": "1145007_LO1",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "Topics (หน่วยความจำแคช)",
-            "target": "หน่วยความจำแคช",
-            "name": "continueFrom"
-        },
-        {
             "source": "LearningObjectives (1145007_LO6)",
             "target": "1145007_LO6",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145102_LO5)",
-            "target": "1145102_LO5",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145216_LO2)",
-            "target": "1145216_LO2",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "Topics (วิธีการคัดเลือกลักษณะ)",
-            "target": "วิธีการคัดเลือกลักษณะ",
-            "name": "continueFrom"
-        },
-        {
-            "source": "Topics (หลักการภาษาแอสเซมบลี)",
-            "target": "หลักการภาษาแอสเซมบลี",
-            "name": "continueFrom"
-        },
-        {
-            "source": "Topics (การเตรียมข้อมูล)",
-            "target": "การเตรียมข้อมูล",
-            "name": "continueFrom"
-        },
-        {
-            "source": "Topics (เครื่องมือที่ใช้ในการทดสอบ)",
-            "target": "เครื่องมือที่ใช้ในการทดสอบ",
-            "name": "continueFrom"
-        },
-        {
-            "source": "Topics (หน่วยประมวลผลกลาง)",
-            "target": "หน่วยประมวลผลกลาง",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145000_LO9)",
-            "target": "1145000_LO9",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145000_LO4)",
-            "target": "1145000_LO4",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "LearningObjectives (1145000_LO9)",
-            "target": "1145000_LO9",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "LearningObjectives (1145203_LO1)",
-            "target": "1145203_LO1",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145219_LO6)",
-            "target": "1145219_LO6",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "Topics (การพัฒนาโปรแกรมบนเว็บไซต์)",
-            "target": "การพัฒนาโปรแกรมบนเว็บไซต์",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145004_LO1)",
-            "target": "1145004_LO1",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "LearningObjectives (1145215_LO5)",
-            "target": "1145215_LO5",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "Topics (ความรู้เบื้องต้นเกี่ยวกับวิศวกรรมซอฟต์แวร์)",
-            "target": "ความรู้เบื้องต้นเกี่ยวกับวิศวกรรมซอฟต์แวร์",
-            "name": "continueFrom"
-        },
-        {
-            "source": "Topics (การสร้างแบบจำลองความต้องการระบบด้วยแผนภาพเป้าหมายเคออส)",
-            "target": "การสร้างแบบจำลองความต้องการระบบด้วยแผนภาพเป้าหมายเคออส",
-            "name": "continueFrom"
-        },
-        {
-            "source": "Topics (พื้นฐานทฤษฎีสำหรับการวัดซอฟต์แวร์)",
-            "target": "พื้นฐานทฤษฎีสำหรับการวัดซอฟต์แวร์",
-            "name": "continueFrom"
-        },
-        {
-            "source": "Topics (เทคนิคการค้นหาข้อมูล)",
-            "target": "เทคนิคการค้นหาข้อมูล",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145202_LO8)",
-            "target": "1145202_LO8",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "Courses (1145208)",
-            "target": "1145208",
-            "name": "hasLearningOf"
-        },
-        {
-            "source": "LearningObjectives (1145216_LO5)",
-            "target": "1145216_LO5",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "LearningObjectives (1145213_LO8)",
-            "target": "1145213_LO8",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "LearningObjectives (1145103_LO6)",
-            "target": "1145103_LO6",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145003_LO3)",
-            "target": "1145003_LO3",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1141002_LO1)",
-            "target": "1141002_LO1",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145202_LO2)",
-            "target": "1145202_LO2",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145203_LO7)",
-            "target": "1145203_LO7",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145103_LO3)",
-            "target": "1145103_LO3",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145102_LO4)",
-            "target": "1145102_LO4",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "Topics (ตัวแปรและชนิดข้อมูล)",
-            "target": "ตัวแปรและชนิดข้อมูล",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145215_LO1)",
-            "target": "1145215_LO1",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "Topics (ระบบแปลภาษาด้วยเครื่อง)",
-            "target": "ระบบแปลภาษาด้วยเครื่อง",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1141002_LO3)",
-            "target": "1141002_LO3",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1141001_LO3)",
-            "target": "1141001_LO3",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145202_LO3)",
-            "target": "1145202_LO3",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "LearningObjectives (1145208_LO1)",
-            "target": "1145208_LO1",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "Topics (สถาปัตยกรรมระบบปฏิบัติการอุปกรณ์เคลื่อนที่)",
-            "target": "สถาปัตยกรรมระบบปฏิบัติการอุปกรณ์เคลื่อนที่",
-            "name": "continueFrom"
-        },
-        {
-            "source": "Topics (พื้นฐานเทคนิคในระบบแนะนำ)",
-            "target": "พื้นฐานเทคนิคในระบบแนะนำ",
-            "name": "continueFrom"
-        },
-        {
-            "source": "Topics (กรณีศึกษาทางธุรกิจ)",
-            "target": "กรณีศึกษาทางธุรกิจ",
-            "name": "continueFrom"
-        },
-        {
-            "source": "Topics (ข้อความสั่ง)",
-            "target": "ข้อความสั่ง",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145006_LO5)",
-            "target": "1145006_LO5",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "LearningObjectives (1145102_LO3)",
-            "target": "1145102_LO3",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "LearningObjectives (1145200_LO1)",
-            "target": "1145200_LO1",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145002_LO6)",
-            "target": "1145002_LO6",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145007_LO4)",
-            "target": "1145007_LO4",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145219_LO4)",
-            "target": "1145219_LO4",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145103_LO6)",
-            "target": "1145103_LO6",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145216_LO5)",
-            "target": "1145216_LO5",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145002_LO8)",
-            "target": "1145002_LO8",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "Courses (1145200)",
-            "target": "1145200",
-            "name": "hasLearningOf"
-        },
-        {
-            "source": "LearningObjectives (1145002_LO7)",
-            "target": "1145002_LO7",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "Topics (การจัดการเว็บด้วยเอชทีเอ็มแอลจาวาสคริปต์ซีเอสเอส)",
-            "target": "การจัดการเว็บด้วยเอชทีเอ็มแอลจาวาสคริปต์ซีเอสเอส",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145200_LO3)",
-            "target": "1145200_LO3",
             "name": "isabletoUnderstandKnowledgeOf"
         },
         {
@@ -3268,249 +2093,39 @@
             "name": "continueFrom"
         },
         {
-            "source": "Topics (การสร้างชุดการทดสอบและการเขียนโปรแกรม)",
-            "target": "การสร้างชุดการทดสอบและการเขียนโปรแกรม",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145203_LO7)",
-            "target": "1145203_LO7",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "Topics (การวิเคราะห์และออกแบบซอฟต์แวร์)",
-            "target": "การวิเคราะห์และออกแบบซอฟต์แวร์",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145219_LO8)",
-            "target": "1145219_LO8",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145102_LO6)",
-            "target": "1145102_LO6",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "Topics (การพัฒนาโมเดลข้อมูล)",
-            "target": "การพัฒนาโมเดลข้อมูล",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145200_LO4)",
-            "target": "1145200_LO4",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145208_LO5)",
-            "target": "1145208_LO5",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "LearningObjectives (1141002_LO1)",
-            "target": "1141002_LO1",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "Courses (1145203)",
-            "target": "1145203",
-            "name": "hasLearningOf"
-        },
-        {
-            "source": "LearningObjectives (1145000_LO10)",
-            "target": "1145000_LO10",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "LearningObjectives (1145102_LO2)",
-            "target": "1145102_LO2",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145217_LO1)",
-            "target": "1145217_LO1",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145202_LO7)",
-            "target": "1145202_LO7",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145004_LO3)",
-            "target": "1145004_LO3",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145203_LO5)",
-            "target": "1145203_LO5",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "Courses (1145000)",
-            "target": "1145000",
-            "name": "hasLearningOf"
-        },
-        {
-            "source": "LearningObjectives (1145203_LO5)",
-            "target": "1145203_LO5",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145205_LO7)",
-            "target": "1145205_LO7",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "Topics (เอดีโอดอทเน็ตและลิงก์)",
-            "target": "เอดีโอดอทเน็ตและลิงก์",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145002_LO1)",
-            "target": "1145002_LO1",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145203_LO6)",
-            "target": "1145203_LO6",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145213_LO2)",
-            "target": "1145213_LO2",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "Topics (กราฟ)",
-            "target": "กราฟ",
-            "name": "continueFrom"
-        },
-        {
-            "source": "Topics (การรายงานการทดสอบ)",
-            "target": "การรายงานการทดสอบ",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145003_LO3)",
-            "target": "1145003_LO3",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "LearningObjectives (1145203_LO3)",
-            "target": "1145203_LO3",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "LearningObjectives (1145102_LO4)",
-            "target": "1145102_LO4",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145006_LO5)",
-            "target": "1145006_LO5",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "Topics (ภาวะพหุสัณฐาน)",
-            "target": "ภาวะพหุสัณฐาน",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145001_LO6)",
-            "target": "1145001_LO6",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "LearningObjectives (1145215_LO4)",
-            "target": "1145215_LO4",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "LearningObjectives (1145215_LO8)",
-            "target": "1145215_LO8",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "Topics (วิธีการทดสอบซอฟแวร์)",
-            "target": "วิธีการทดสอบซอฟแวร์",
-            "name": "continueFrom"
-        },
-        {
-            "source": "Courses (1145217)",
-            "target": "1145217",
-            "name": "hasLearningOf"
-        },
-        {
-            "source": "LearningObjectives (1145208_LO5)",
-            "target": "1145208_LO5",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145002_LO7)",
-            "target": "1145002_LO7",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "Topics (ต้นไม้ตัดสินใจ)",
-            "target": "ต้นไม้ตัดสินใจ",
+            "source": "Topics (การสร้างซอฟต์แวร์)",
+            "target": "การสร้างซอฟต์แวร์",
             "name": "continueFrom"
         },
         {
             "source": "LearningObjectives (1145000_LO7)",
             "target": "1145000_LO7",
-            "name": "isabletoUnderstandKnowledgeOf"
+            "name": "isabletoApplyKnowledgeOf"
         },
         {
-            "source": "LearningObjectives (1145004_LO4)",
-            "target": "1145004_LO4",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "Topics (การเก็บข้อมูล)",
-            "target": "การเก็บข้อมูล",
+            "source": "Topics (การสืบทอด)",
+            "target": "การสืบทอด",
             "name": "continueFrom"
         },
         {
-            "source": "LearningObjectives (1145004_LO5)",
-            "target": "1145004_LO5",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "Topics (การออกแบบโมเดลข้อมูล)",
-            "target": "การออกแบบโมเดลข้อมูล",
+            "source": "Topics (ฟังก์ชันการตัดสิน)",
+            "target": "ฟังก์ชันการตัดสิน",
             "name": "continueFrom"
         },
         {
-            "source": "Courses (1145213)",
-            "target": "1145213",
-            "name": "hasLearningOf"
-        },
-        {
-            "source": "Courses (1145207)",
-            "target": "1145207",
-            "name": "hasLearningOf"
-        },
-        {
-            "source": "LearningObjectives (1145202_LO8)",
-            "target": "1145202_LO8",
+            "source": "LearningObjectives (1145003_LO3)",
+            "target": "1145003_LO3",
             "name": "isabletoUnderstandKnowledgeOf"
         },
         {
-            "source": "LearningObjectives (1145215_LO1)",
-            "target": "1145215_LO1",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "LearningObjectives (1141001_LO4)",
-            "target": "1141001_LO4",
+            "source": "LearningObjectives (1145216_LO2)",
+            "target": "1145216_LO2",
             "name": "isabletoUnderstandKnowledgeOf"
         },
         {
-            "source": "LearningObjectives (1145210_LO4)",
-            "target": "1145210_LO4",
-            "name": "isabletoUnderstandKnowledgeOf"
+            "source": "Topics (การพัฒนาโครงงานด้วยภาษาจาวา)",
+            "target": "การพัฒนาโครงงานด้วยภาษาจาวา",
+            "name": "continueFrom"
         },
         {
             "source": "LearningObjectives (1145006_LO3)",
@@ -3518,113 +2133,43 @@
             "name": "isabletoApplyKnowledgeOf"
         },
         {
-            "source": "LearningObjectives (1145210_LO1)",
-            "target": "1145210_LO1",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "Topics (การทำเหมืองข้อมูลบนเว็บ)",
-            "target": "การทำเหมืองข้อมูลบนเว็บ",
+            "source": "Topics (การติดตั้งฮาดูป)",
+            "target": "การติดตั้งฮาดูป",
             "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145001_LO5)",
-            "target": "1145001_LO5",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145220_LO3)",
-            "target": "1145220_LO3",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145202_LO1)",
-            "target": "1145202_LO1",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "Topics (โมเดลเชิงสัมพันธ์)",
-            "target": "โมเดลเชิงสัมพันธ์",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145220_LO7)",
-            "target": "1145220_LO7",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145006_LO2)",
-            "target": "1145006_LO2",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "LearningObjectives (1145207_LO5)",
-            "target": "1145207_LO5",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145215_LO8)",
-            "target": "1145215_LO8",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145102_LO2)",
-            "target": "1145102_LO2",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "Topics (การประกันคุณภาพและการควบคุมคุณภาพ)",
-            "target": "การประกันคุณภาพและการควบคุมคุณภาพ",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145002_LO7)",
-            "target": "1145002_LO7",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "LearningObjectives (1145215_LO6)",
-            "target": "1145215_LO6",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145202_LO4)",
-            "target": "1145202_LO4",
-            "name": "isabletoUnderstandKnowledgeOf"
         },
         {
             "source": "LearningObjectives (1145006_LO1)",
             "target": "1145006_LO1",
-            "name": "isabletoAnalyzeProblemOf"
+            "name": "isabletoUnderstandKnowledgeOf"
         },
         {
-            "source": "LearningObjectives (1145007_LO9)",
-            "target": "1145007_LO9",
+            "source": "LearningObjectives (1141002_LO1)",
+            "target": "1141002_LO1",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145217_LO8)",
+            "target": "1145217_LO8",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145219_LO8)",
+            "target": "1145219_LO8",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145103_LO7)",
+            "target": "1145103_LO7",
             "name": "isabletoApplyKnowledgeOf"
         },
         {
-            "source": "Topics (ตัวดำเนินการและประเภทของคำสั่ง)",
-            "target": "ตัวดำเนินการและประเภทของคำสั่ง",
-            "name": "continueFrom"
+            "source": "Courses (1145208)",
+            "target": "1145208",
+            "name": "hasLearningOf"
         },
         {
-            "source": "Topics (ซอฟต์แวร์ที่ใช้ในการทำเหมืองข้อมูล)",
-            "target": "ซอฟต์แวร์ที่ใช้ในการทำเหมืองข้อมูล",
-            "name": "continueFrom"
-        },
-        {
-            "source": "Topics (การใช้วิธีของอไจล์ในการพัฒนาซอฟแวร์)",
-            "target": "การใช้วิธีของอไจล์ในการพัฒนาซอฟแวร์",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145102_LO7)",
-            "target": "1145102_LO7",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "LearningObjectives (1145220_LO5)",
-            "target": "1145220_LO5",
+            "source": "LearningObjectives (1141001_LO2)",
+            "target": "1141001_LO2",
             "name": "isabletoUnderstandKnowledgeOf"
         },
         {
@@ -3633,213 +2178,23 @@
             "name": "isabletoUnderstandKnowledgeOf"
         },
         {
-            "source": "LearningObjectives (1145006_LO6)",
-            "target": "1145006_LO6",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "Topics (การจัดการโปรแกรมส่วนติดต่อกับผู้ใช้)",
-            "target": "การจัดการโปรแกรมส่วนติดต่อกับผู้ใช้",
-            "name": "continueFrom"
-        },
-        {
-            "source": "Topics (การระบุความต้องการและการจัดทําเอกสารความต้องการ)",
-            "target": "การระบุความต้องการและการจัดทําเอกสารความต้องการ",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145217_LO2)",
-            "target": "1145217_LO2",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145103_LO1)",
-            "target": "1145103_LO1",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145000_LO5)",
-            "target": "1145000_LO5",
+            "source": "LearningObjectives (1145202_LO7)",
+            "target": "1145202_LO7",
             "name": "isabletoAnalyzeProblemOf"
         },
         {
-            "source": "LearningObjectives (1145002_LO9)",
-            "target": "1145002_LO9",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145210_LO2)",
-            "target": "1145210_LO2",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "Topics (การรู้จำเสียงพูด)",
-            "target": "การรู้จำเสียงพูด",
+            "source": "Topics (การวิเคราะห์ความรู้สึก)",
+            "target": "การวิเคราะห์ความรู้สึก",
             "name": "continueFrom"
         },
         {
-            "source": "Topics (การจัดการมัลติมีเดีย)",
-            "target": "การจัดการมัลติมีเดีย",
-            "name": "continueFrom"
-        },
-        {
-            "source": "Topics (การประยุกต์การวัดซอฟต์แวร์)",
-            "target": "การประยุกต์การวัดซอฟต์แวร์",
-            "name": "continueFrom"
-        },
-        {
-            "source": "Topics (การห่อหุ้ม)",
-            "target": "การห่อหุ้ม",
-            "name": "continueFrom"
-        },
-        {
-            "source": "Courses (1145103)",
-            "target": "1145103",
+            "source": "Courses (1145001)",
+            "target": "1145001",
             "name": "hasLearningOf"
         },
         {
-            "source": "LearningObjectives (1145002_LO2)",
-            "target": "1145002_LO2",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "LearningObjectives (1145006_LO2)",
-            "target": "1145006_LO2",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145217_LO7)",
-            "target": "1145217_LO7",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "Topics (โมเดลกระบวนการซอฟต์แวร์)",
-            "target": "โมเดลกระบวนการซอฟต์แวร์",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145001_LO2)",
-            "target": "1145001_LO2",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145103_LO4)",
-            "target": "1145103_LO4",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145102_LO9)",
-            "target": "1145102_LO9",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145219_LO7)",
-            "target": "1145219_LO7",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145213_LO6)",
-            "target": "1145213_LO6",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "LearningObjectives (1145210_LO2)",
-            "target": "1145210_LO2",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145207_LO4)",
-            "target": "1145207_LO4",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "Topics (ขอบข่ายของการพัฒนาระบบสนับสนุนการตัดสินใจ)",
-            "target": "ขอบข่ายของการพัฒนาระบบสนับสนุนการตัดสินใจ",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145007_LO8)",
-            "target": "1145007_LO8",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1141001_LO1)",
-            "target": "1141001_LO1",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145220_LO1)",
-            "target": "1145220_LO1",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145002_LO4)",
-            "target": "1145002_LO4",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "Topics (การตรวจสอบความถูกต้อง)",
-            "target": "การตรวจสอบความถูกต้อง",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145102_LO7)",
-            "target": "1145102_LO7",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "Topics (แบบอย่างและสัญนิยมการเขียนโปรแกรม)",
-            "target": "แบบอย่างและสัญนิยมการเขียนโปรแกรม",
-            "name": "continueFrom"
-        },
-        {
-            "source": "Topics (ความคิดพื้นฐานและการประยุกต์การสอบทานกระบวนการ)",
-            "target": "ความคิดพื้นฐานและการประยุกต์การสอบทานกระบวนการ",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145203_LO1)",
-            "target": "1145203_LO1",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "LearningObjectives (1145202_LO1)",
-            "target": "1145202_LO1",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "Topics (การทดสอบแบบอไจล์)",
-            "target": "การทดสอบแบบอไจล์",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145004_LO8)",
-            "target": "1145004_LO8",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145002_LO2)",
-            "target": "1145002_LO2",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145217_LO8)",
-            "target": "1145217_LO8",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145007_LO5)",
-            "target": "1145007_LO5",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145220_LO2)",
-            "target": "1145220_LO2",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145205_LO4)",
-            "target": "1145205_LO4",
+            "source": "LearningObjectives (1145103_LO2)",
+            "target": "1145103_LO2",
             "name": "isabletoUnderstandKnowledgeOf"
         },
         {
@@ -3848,93 +2203,108 @@
             "name": "isabletoAnalyzeProblemOf"
         },
         {
-            "source": "LearningObjectives (1145102_LO1)",
-            "target": "1145102_LO1",
-            "name": "isabletoUnderstandKnowledgeOf"
+            "source": "LearningObjectives (1145205_LO4)",
+            "target": "1145205_LO4",
+            "name": "isabletoAnalyzeProblemOf"
         },
         {
-            "source": "LearningObjectives (1145103_LO7)",
-            "target": "1145103_LO7",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "Topics (ทีคิวเอ็ม)",
-            "target": "ทีคิวเอ็ม",
+            "source": "Topics (หน่วยคำนวณและตรรกะ)",
+            "target": "หน่วยคำนวณและตรรกะ",
             "name": "continueFrom"
         },
         {
-            "source": "Topics (คลาสอ๊อบเจกต์และโครงสร้างข้อมูล)",
-            "target": "คลาสอ๊อบเจกต์และโครงสร้างข้อมูล",
+            "source": "LearningObjectives (1145220_LO2)",
+            "target": "1145220_LO2",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "Topics (ประเภทของข้อมูล)",
+            "target": "ประเภทของข้อมูล",
             "name": "continueFrom"
         },
         {
-            "source": "Topics (พีชคณิตบูลีน)",
-            "target": "พีชคณิตบูลีน",
-            "name": "continueFrom"
-        },
-        {
-            "source": "Topics (ตรรกศาสตร์และการพิสูจน์)",
-            "target": "ตรรกศาสตร์และการพิสูจน์",
-            "name": "continueFrom"
-        },
-        {
-            "source": "Courses (1145004)",
-            "target": "1145004",
-            "name": "hasLearningOf"
-        },
-        {
-            "source": "Topics (การค้นหากฎความสัมพันธ์ของข้อมูล)",
-            "target": "การค้นหากฎความสัมพันธ์ของข้อมูล",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145215_LO2)",
-            "target": "1145215_LO2",
-            "name": "hasLearningContentOf"
-        },
-        {
-            "source": "Topics (ความสัมพันธ์)",
-            "target": "ความสัมพันธ์",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145219_LO2)",
-            "target": "1145219_LO2",
-            "name": "isabletoUnderstandKnowledgeOf"
+            "source": "LearningObjectives (1141001_LO4)",
+            "target": "1141001_LO4",
+            "name": "isabletoApplyKnowledgeOf"
         },
         {
             "source": "LearningObjectives (1145208_LO4)",
             "target": "1145208_LO4",
-            "name": "isabletoUnderstandKnowledgeOf"
+            "name": "isabletoApplyKnowledgeOf"
         },
         {
-            "source": "Topics (การจัดกลุ่มโดยใช้ขั้นตอนวิธีเคมีนส์)",
-            "target": "การจัดกลุ่มโดยใช้ขั้นตอนวิธีเคมีนส์",
-            "name": "continueFrom"
-        },
-        {
-            "source": "Topics (การประยุกต์นวัตกรรมซอฟต์แวร์ในงานจริง)",
-            "target": "การประยุกต์นวัตกรรมซอฟต์แวร์ในงานจริง",
-            "name": "continueFrom"
+            "source": "LearningObjectives (1141001_LO4)",
+            "target": "1141001_LO4",
+            "name": "isabletoAnalyzeProblemOf"
         },
         {
             "source": "LearningObjectives (1145004_LO8)",
             "target": "1145004_LO8",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1141001_LO4)",
+            "target": "1141001_LO4",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145203_LO3)",
+            "target": "1145203_LO3",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "LearningObjectives (1145215_LO6)",
+            "target": "1145215_LO6",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145007_LO3)",
+            "target": "1145007_LO3",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145000_LO4)",
+            "target": "1145000_LO4",
             "name": "isabletoApplyKnowledgeOf"
         },
         {
-            "source": "LearningObjectives (1145208_LO2)",
-            "target": "1145208_LO2",
+            "source": "LearningObjectives (1145002_LO5)",
+            "target": "1145002_LO5",
             "name": "isabletoUnderstandKnowledgeOf"
         },
         {
-            "source": "LearningObjectives (1145219_LO3)",
-            "target": "1145219_LO3",
+            "source": "Topics (ระบบสมการเชิงเส้น)",
+            "target": "ระบบสมการเชิงเส้น",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145001_LO6)",
+            "target": "1145001_LO6",
             "name": "isabletoUnderstandKnowledgeOf"
         },
         {
-            "source": "Topics (ระบบสนับสนุนการตัดสินใจแบบกลุ่ม)",
-            "target": "ระบบสนับสนุนการตัดสินใจแบบกลุ่ม",
+            "source": "LearningObjectives (1145003_LO2)",
+            "target": "1145003_LO2",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "LearningObjectives (1145102_LO3)",
+            "target": "1145102_LO3",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145002_LO4)",
+            "target": "1145002_LO4",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145216_LO4)",
+            "target": "1145216_LO4",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "Topics (การพัฒนาโปรแกรมบนเว็บไซต์)",
+            "target": "การพัฒนาโปรแกรมบนเว็บไซต์",
             "name": "continueFrom"
         },
         {
@@ -3943,458 +2313,23 @@
             "name": "isabletoApplyKnowledgeOf"
         },
         {
-            "source": "LearningObjectives (1145207_LO5)",
-            "target": "1145207_LO5",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "LearningObjectives (1145219_LO6)",
-            "target": "1145219_LO6",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
             "source": "LearningObjectives (1145103_LO1)",
             "target": "1145103_LO1",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "LearningObjectives (1145004_LO3)",
-            "target": "1145004_LO3",
             "name": "isabletoApplyKnowledgeOf"
         },
         {
-            "source": "LearningObjectives (1145202_LO7)",
-            "target": "1145202_LO7",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145220_LO2)",
-            "target": "1145220_LO2",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145216_LO4)",
-            "target": "1145216_LO4",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145000_LO11)",
-            "target": "1145000_LO11",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "Topics (การแปลงข้อมูลและการโหลดข้อมูล)",
-            "target": "การแปลงข้อมูลและการโหลดข้อมูล",
-            "name": "continueFrom"
-        },
-        {
-            "source": "Topics (การทดสอบอัตโนมัติ)",
-            "target": "การทดสอบอัตโนมัติ",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145007_LO5)",
-            "target": "1145007_LO5",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "Topics (ระบบสำหรับวัดซอฟต์แวร์)",
-            "target": "ระบบสำหรับวัดซอฟต์แวร์",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145217_LO6)",
-            "target": "1145217_LO6",
+            "source": "LearningObjectives (1145001_LO2)",
+            "target": "1145001_LO2",
             "name": "isabletoApplyKnowledgeOf"
         },
         {
-            "source": "LearningObjectives (1145220_LO6)",
-            "target": "1145220_LO6",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145000_LO3)",
-            "target": "1145000_LO3",
+            "source": "LearningObjectives (1145103_LO6)",
+            "target": "1145103_LO6",
             "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145000_LO1)",
-            "target": "1145000_LO1",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "LearningObjectives (1145103_LO7)",
-            "target": "1145103_LO7",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145202_LO7)",
-            "target": "1145202_LO7",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "Topics (ระบบสมการเชิงเส้น)",
-            "target": "ระบบสมการเชิงเส้น",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145002_LO3)",
-            "target": "1145002_LO3",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "LearningObjectives (1145219_LO5)",
-            "target": "1145219_LO5",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "Topics (ตัวแยกประเภทแบบเบยส์)",
-            "target": "ตัวแยกประเภทแบบเบยส์",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145002_LO8)",
-            "target": "1145002_LO8",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "Topics (กรณีศึกษา)",
-            "target": "กรณีศึกษา",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145210_LO4)",
-            "target": "1145210_LO4",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145219_LO4)",
-            "target": "1145219_LO4",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "Topics (ขั้นตอนวิธีการแบ่งกลุ่ม)",
-            "target": "ขั้นตอนวิธีการแบ่งกลุ่ม",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145207_LO4)",
-            "target": "1145207_LO4",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145103_LO3)",
-            "target": "1145103_LO3",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "Topics (คำสั่งควบคุมการทำงาน)",
-            "target": "คำสั่งควบคุมการทำงาน",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145000_LO2)",
-            "target": "1145000_LO2",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "Topics (โครงสร้างและกระบวนการจัดการข้อมูลก่อนทำคลังข้อมูล)",
-            "target": "โครงสร้างและกระบวนการจัดการข้อมูลก่อนทำคลังข้อมูล",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145102_LO6)",
-            "target": "1145102_LO6",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145000_LO6)",
-            "target": "1145000_LO6",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "Topics (โครงสร้างของวาทกรรม)",
-            "target": "โครงสร้างของวาทกรรม",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145102_LO5)",
-            "target": "1145102_LO5",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145200_LO2)",
-            "target": "1145200_LO2",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145213_LO5)",
-            "target": "1145213_LO5",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145213_LO9)",
-            "target": "1145213_LO9",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "LearningObjectives (1145007_LO2)",
-            "target": "1145007_LO2",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "Topics (การแยกข้อมูล)",
-            "target": "การแยกข้อมูล",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145001_LO4)",
-            "target": "1145001_LO4",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145219_LO2)",
-            "target": "1145219_LO2",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "Topics (ขั้นตอนวิธีที่ใช้สำหรับการทำเหมืองข้อมูล)",
-            "target": "ขั้นตอนวิธีที่ใช้สำหรับการทำเหมืองข้อมูล",
-            "name": "continueFrom"
-        },
-        {
-            "source": "Topics (การใช้การวัด)",
-            "target": "การใช้การวัด",
-            "name": "continueFrom"
-        },
-        {
-            "source": "Topics (เครื่องมือทางสถิติ)",
-            "target": "เครื่องมือทางสถิติ",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145002_LO6)",
-            "target": "1145002_LO6",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "Topics (การยืนยันความถูกต้องและความผิดพลาด)",
-            "target": "การยืนยันความถูกต้องและความผิดพลาด",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1141002_LO4)",
-            "target": "1141002_LO4",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "Courses (1145102)",
-            "target": "1145102",
-            "name": "hasLearningOf"
-        },
-        {
-            "source": "LearningObjectives (1145102_LO4)",
-            "target": "1145102_LO4",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "LearningObjectives (1145213_LO1)",
-            "target": "1145213_LO1",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145103_LO4)",
-            "target": "1145103_LO4",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "Topics (การออกแบบและกระบวนการของธุรกิจอัจฉริยะ)",
-            "target": "การออกแบบและกระบวนการของธุรกิจอัจฉริยะ",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145210_LO3)",
-            "target": "1145210_LO3",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145003_LO4)",
-            "target": "1145003_LO4",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145006_LO1)",
-            "target": "1145006_LO1",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145200_LO4)",
-            "target": "1145200_LO4",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "LearningObjectives (1145207_LO1)",
-            "target": "1145207_LO1",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "Topics (ระบบบัส)",
-            "target": "ระบบบัส",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145001_LO1)",
-            "target": "1145001_LO1",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1141001_LO2)",
-            "target": "1141001_LO2",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "Topics (การประยุกต์ใช้โครงสร้างข้อมูล)",
-            "target": "การประยุกต์ใช้โครงสร้างข้อมูล",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145000_LO5)",
-            "target": "1145000_LO5",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145205_LO6)",
-            "target": "1145205_LO6",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "Topics (อาร์เรย์)",
-            "target": "อาร์เรย์",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145002_LO4)",
-            "target": "1145002_LO4",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "Topics (หน่วยความจำภายใน)",
-            "target": "หน่วยความจำภายใน",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145007_LO7)",
-            "target": "1145007_LO7",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "Topics (ทรัพย์สินทางปัญญา)",
-            "target": "ทรัพย์สินทางปัญญา",
-            "name": "continueFrom"
-        },
-        {
-            "source": "Courses (1145216)",
-            "target": "1145216",
-            "name": "hasLearningOf"
-        },
-        {
-            "source": "LearningObjectives (1145205_LO1)",
-            "target": "1145205_LO1",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "Topics (การจัดการเหตุการณ์และการโต้ตอบ)",
-            "target": "การจัดการเหตุการณ์และการโต้ตอบ",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145001_LO3)",
-            "target": "1145001_LO3",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145007_LO8)",
-            "target": "1145007_LO8",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "Topics (เทคนิคการเรียงลำดับข้อมูล)",
-            "target": "เทคนิคการเรียงลำดับข้อมูล",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145202_LO6)",
-            "target": "1145202_LO6",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "LearningObjectives (1145004_LO7)",
-            "target": "1145004_LO7",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "Topics (การตรวจสอบความถูกต้องความต้องการ)",
-            "target": "การตรวจสอบความถูกต้องความต้องการ",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1141002_LO2)",
-            "target": "1141002_LO2",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "Topics (วิศวกรรมความต้องการแบบกึ่งรูปนัยและรูปนัย)",
-            "target": "วิศวกรรมความต้องการแบบกึ่งรูปนัยและรูปนัย",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145000_LO7)",
-            "target": "1145000_LO7",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "LearningObjectives (1145003_LO1)",
-            "target": "1145003_LO1",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145202_LO4)",
-            "target": "1145202_LO4",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "LearningObjectives (1145202_LO5)",
-            "target": "1145202_LO5",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "Topics (การประเมินราคาและความพยายาม)",
-            "target": "การประเมินราคาและความพยายาม",
-            "name": "continueFrom"
-        },
-        {
-            "source": "Topics (ประสิทธิภาพการออกแบบโมเดลข้อมูล)",
-            "target": "ประสิทธิภาพการออกแบบโมเดลข้อมูล",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145002_LO6)",
-            "target": "1145002_LO6",
-            "name": "isabletoUnderstandKnowledgeOf"
         },
         {
             "source": "Topics (การวิเคราะห์การถดถอยเชิงเส้นแบบง่ายและการวิเคราะห์สหสัมพันธ์)",
             "target": "การวิเคราะห์การถดถอยเชิงเส้นแบบง่ายและการวิเคราะห์สหสัมพันธ์",
-            "name": "continueFrom"
-        },
-        {
-            "source": "Topics (แนวคิดเชิงวัตถุ)",
-            "target": "แนวคิดเชิงวัตถุ",
-            "name": "continueFrom"
-        },
-        {
-            "source": "Topics (การวิเคราะห์เวลาดำเนินงานและความซับซ้อนของขั้นตอนวิธี)",
-            "target": "การวิเคราะห์เวลาดำเนินงานและความซับซ้อนของขั้นตอนวิธี",
             "name": "continueFrom"
         },
         {
@@ -4403,93 +2338,13 @@
             "name": "continueFrom"
         },
         {
-            "source": "Topics (การบำรุงรักษาซอฟต์แวร์)",
-            "target": "การบำรุงรักษาซอฟต์แวร์",
+            "source": "Topics (การห่อหุ้ม)",
+            "target": "การห่อหุ้ม",
             "name": "continueFrom"
         },
         {
-            "source": "LearningObjectives (1145210_LO3)",
-            "target": "1145210_LO3",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "Topics (การค้นหาคำและกำหนดชนิดของคำ)",
-            "target": "การค้นหาคำและกำหนดชนิดของคำ",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145217_LO8)",
-            "target": "1145217_LO8",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145103_LO5)",
-            "target": "1145103_LO5",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145006_LO4)",
-            "target": "1145006_LO4",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "LearningObjectives (1141002_LO4)",
-            "target": "1141002_LO4",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145208_LO2)",
-            "target": "1145208_LO2",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "LearningObjectives (1145215_LO7)",
-            "target": "1145215_LO7",
-            "name": "hasLearningContentOf"
-        },
-        {
-            "source": "LearningObjectives (1145000_LO2)",
-            "target": "1145000_LO2",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "LearningObjectives (1145000_LO11)",
-            "target": "1145000_LO11",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145001_LO1)",
-            "target": "1145001_LO1",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145006_LO4)",
-            "target": "1145006_LO4",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145003_LO4)",
-            "target": "1145003_LO4",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145007_LO2)",
-            "target": "1145007_LO2",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "LearningObjectives (1145207_LO3)",
-            "target": "1145207_LO3",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "Topics (ระเบียบวิธีการวิเคราะห์และออกแบบระบบเชิงโครงสร้าง)",
-            "target": "ระเบียบวิธีการวิเคราะห์และออกแบบระบบเชิงโครงสร้าง",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145203_LO4)",
-            "target": "1145203_LO4",
+            "source": "LearningObjectives (1145004_LO1)",
+            "target": "1145004_LO1",
             "name": "isabletoUnderstandKnowledgeOf"
         },
         {
@@ -4498,8 +2353,68 @@
             "name": "isabletoUnderstandKnowledgeOf"
         },
         {
-            "source": "LearningObjectives (1145210_LO1)",
-            "target": "1145210_LO1",
+            "source": "LearningObjectives (1145203_LO3)",
+            "target": "1145203_LO3",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145215_LO1)",
+            "target": "1145215_LO1",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145208_LO5)",
+            "target": "1145208_LO5",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145207_LO3)",
+            "target": "1145207_LO3",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "Topics (คลาสคอลเลคชันและคลาสทั่วไป)",
+            "target": "คลาสคอลเลคชันและคลาสทั่วไป",
+            "name": "continueFrom"
+        },
+        {
+            "source": "Topics (การสร้างแบบจำลองการทำงานของเป้าหมาย)",
+            "target": "การสร้างแบบจำลองการทำงานของเป้าหมาย",
+            "name": "continueFrom"
+        },
+        {
+            "source": "Topics (ขั้นตอนวิธีที่ใช้สำหรับการทำเหมืองข้อมูล)",
+            "target": "ขั้นตอนวิธีที่ใช้สำหรับการทำเหมืองข้อมูล",
+            "name": "continueFrom"
+        },
+        {
+            "source": "Topics (การวางแผนและการกำหนดเวลาโครงงาน)",
+            "target": "การวางแผนและการกำหนดเวลาโครงงาน",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1141002_LO3)",
+            "target": "1141002_LO3",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "LearningObjectives (1145004_LO2)",
+            "target": "1145004_LO2",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145006_LO4)",
+            "target": "1145006_LO4",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145000_LO2)",
+            "target": "1145000_LO2",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145219_LO8)",
+            "target": "1145219_LO8",
             "name": "isabletoApplyKnowledgeOf"
         },
         {
@@ -4508,224 +2423,19 @@
             "name": "isabletoApplyKnowledgeOf"
         },
         {
-            "source": "Topics (ระบบสนับสนุนการวัด)",
-            "target": "ระบบสนับสนุนการวัด",
-            "name": "continueFrom"
-        },
-        {
-            "source": "Topics (เฟรมเวิร์คสำหรับพัฒนาซอฟต์แวร์เชิงอ็อบเจกต์)",
-            "target": "เฟรมเวิร์คสำหรับพัฒนาซอฟต์แวร์เชิงอ็อบเจกต์",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145102_LO9)",
-            "target": "1145102_LO9",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145001_LO2)",
-            "target": "1145001_LO2",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "Topics (การจัดการข้อยกเว้น)",
-            "target": "การจัดการข้อยกเว้น",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145203_LO4)",
-            "target": "1145203_LO4",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "LearningObjectives (1145200_LO5)",
-            "target": "1145200_LO5",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "Topics (โครงสร้างข้อมูลแบบเชิงเส้น)",
-            "target": "โครงสร้างข้อมูลแบบเชิงเส้น",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145001_LO3)",
-            "target": "1145001_LO3",
+            "source": "LearningObjectives (1145210_LO1)",
+            "target": "1145210_LO1",
             "name": "isabletoUnderstandKnowledgeOf"
         },
         {
-            "source": "LearningObjectives (1141001_LO1)",
-            "target": "1141001_LO1",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145002_LO4)",
-            "target": "1145002_LO4",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "Courses (1145003)",
-            "target": "1145003",
-            "name": "hasLearningOf"
-        },
-        {
-            "source": "LearningObjectives (1145205_LO6)",
-            "target": "1145205_LO6",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1141002_LO5)",
-            "target": "1141002_LO5",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145208_LO3)",
-            "target": "1145208_LO3",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "Courses (1145205)",
-            "target": "1145205",
-            "name": "hasLearningOf"
-        },
-        {
-            "source": "Courses (1145220)",
-            "target": "1145220",
-            "name": "hasLearningOf"
-        },
-        {
-            "source": "LearningObjectives (1145007_LO6)",
-            "target": "1145007_LO6",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145202_LO6)",
-            "target": "1145202_LO6",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145217_LO5)",
-            "target": "1145217_LO5",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "LearningObjectives (1141001_LO3)",
-            "target": "1141001_LO3",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145006_LO6)",
-            "target": "1145006_LO6",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "LearningObjectives (1145220_LO1)",
-            "target": "1145220_LO1",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "Topics (ความรู้เบื้องต้นเกี่ยวกับภาษาจาวา)",
-            "target": "ความรู้เบื้องต้นเกี่ยวกับภาษาจาวา",
+            "source": "Topics (โครงสร้างของวาทกรรม)",
+            "target": "โครงสร้างของวาทกรรม",
             "name": "continueFrom"
         },
         {
-            "source": "LearningObjectives (1145202_LO5)",
-            "target": "1145202_LO5",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "Courses (1141002)",
-            "target": "1141002",
-            "name": "hasLearningOf"
-        },
-        {
-            "source": "Topics (วิศวกรรมความต้องการเน้นที่เป้าหมาย)",
-            "target": "วิศวกรรมความต้องการเน้นที่เป้าหมาย",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1141001_LO4)",
-            "target": "1141001_LO4",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145006_LO2)",
-            "target": "1145006_LO2",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1141001_LO4)",
-            "target": "1141001_LO4",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "LearningObjectives (1145205_LO4)",
-            "target": "1145205_LO4",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "LearningObjectives (1145220_LO9)",
-            "target": "1145220_LO9",
+            "source": "LearningObjectives (1145220_LO3)",
+            "target": "1145220_LO3",
             "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145007_LO4)",
-            "target": "1145007_LO4",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145003_LO2)",
-            "target": "1145003_LO2",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145007_LO1)",
-            "target": "1145007_LO1",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "Topics (วงจรตรรกะเชิงตัวเลข)",
-            "target": "วงจรตรรกะเชิงตัวเลข",
-            "name": "continueFrom"
-        },
-        {
-            "source": "Topics (ส่วนสนับสนุนระบบปฏิบัติการ)",
-            "target": "ส่วนสนับสนุนระบบปฏิบัติการ",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145000_LO8)",
-            "target": "1145000_LO8",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145103_LO5)",
-            "target": "1145103_LO5",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "LearningObjectives (1145217_LO1)",
-            "target": "1145217_LO1",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "LearningObjectives (1141001_LO3)",
-            "target": "1141001_LO3",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "LearningObjectives (1145103_LO3)",
-            "target": "1145103_LO3",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145001_LO6)",
-            "target": "1145001_LO6",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145217_LO2)",
-            "target": "1145217_LO2",
-            "name": "isabletoApplyKnowledgeOf"
         },
         {
             "source": "Courses (1145202)",
@@ -4733,253 +2443,18 @@
             "name": "hasLearningOf"
         },
         {
-            "source": "LearningObjectives (1145002_LO3)",
-            "target": "1145002_LO3",
-            "name": "isabletoUnderstandKnowledgeOf"
+            "source": "Topics (กรณีศึกษาทางธุรกิจ)",
+            "target": "กรณีศึกษาทางธุรกิจ",
+            "name": "continueFrom"
         },
         {
-            "source": "LearningObjectives (1145202_LO3)",
-            "target": "1145202_LO3",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145205_LO5)",
-            "target": "1145205_LO5",
+            "source": "LearningObjectives (1145103_LO3)",
+            "target": "1145103_LO3",
             "name": "isabletoApplyKnowledgeOf"
         },
         {
-            "source": "LearningObjectives (1145004_LO6)",
-            "target": "1145004_LO6",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145000_LO11)",
-            "target": "1145000_LO11",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "LearningObjectives (1145102_LO9)",
-            "target": "1145102_LO9",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "Topics (โครงข่ายประสาทเทียมเชิงลึก)",
-            "target": "โครงข่ายประสาทเทียมเชิงลึก",
-            "name": "continueFrom"
-        },
-        {
-            "source": "Topics (การควบคุมภาวการณ์เข้าใช้งานข้อมูลพร้อมกัน)",
-            "target": "การควบคุมภาวการณ์เข้าใช้งานข้อมูลพร้อมกัน",
-            "name": "continueFrom"
-        },
-        {
-            "source": "Topics (วงจรการพัฒนาซอฟต์แวร์)",
-            "target": "วงจรการพัฒนาซอฟต์แวร์",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1141002_LO8)",
-            "target": "1141002_LO8",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145006_LO5)",
-            "target": "1145006_LO5",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145207_LO3)",
-            "target": "1145207_LO3",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "LearningObjectives (1145000_LO8)",
-            "target": "1145000_LO8",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "Topics (ออโตมาตาแกรมมาและภาษา)",
-            "target": "ออโตมาตาแกรมมาและภาษา",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145007_LO2)",
-            "target": "1145007_LO2",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145202_LO6)",
-            "target": "1145202_LO6",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "Courses (1145001)",
-            "target": "1145001",
-            "name": "hasLearningOf"
-        },
-        {
-            "source": "LearningObjectives (1145004_LO1)",
-            "target": "1145004_LO1",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145215_LO5)",
-            "target": "1145215_LO5",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "Topics (คำสั่งควบคุม)",
-            "target": "คำสั่งควบคุม",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145207_LO3)",
-            "target": "1145207_LO3",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145103_LO2)",
-            "target": "1145103_LO2",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "Topics (กระบวนการทดสอบซอฟแวร์)",
-            "target": "กระบวนการทดสอบซอฟแวร์",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145003_LO1)",
-            "target": "1145003_LO1",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145208_LO4)",
-            "target": "1145208_LO4",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145000_LO4)",
-            "target": "1145000_LO4",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "Topics (ตัวแปรและตัวดำเนินการ)",
-            "target": "ตัวแปรและตัวดำเนินการ",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145219_LO7)",
-            "target": "1145219_LO7",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "Topics (เฟรมเวิร์คของฮาดูปแมพรีดิว)",
-            "target": "เฟรมเวิร์คของฮาดูปแมพรีดิว",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145205_LO5)",
-            "target": "1145205_LO5",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "Topics (ตัวปฏิบัติการ)",
-            "target": "ตัวปฏิบัติการ",
-            "name": "continueFrom"
-        },
-        {
-            "source": "Topics (ระเบียบวิธีการวิเคราะห์และออกแบบระบบด้วยหลักการเชิงอ็อบเจกต์)",
-            "target": "ระเบียบวิธีการวิเคราะห์และออกแบบระบบด้วยหลักการเชิงอ็อบเจกต์",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145002_LO5)",
-            "target": "1145002_LO5",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145004_LO7)",
-            "target": "1145004_LO7",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145102_LO5)",
-            "target": "1145102_LO5",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "Topics (ชุดคำสั่งและหน่วยควบคุม)",
-            "target": "ชุดคำสั่งและหน่วยควบคุม",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145208_LO3)",
-            "target": "1145208_LO3",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "Topics (การพัฒนาโปรแกรมแบบวินโดว์)",
-            "target": "การพัฒนาโปรแกรมแบบวินโดว์",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145004_LO2)",
-            "target": "1145004_LO2",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "Topics (ขั้นตอนวิธีการเรียนรู้และการประยุกต์ของการรู้จํารูปแบบ)",
-            "target": "ขั้นตอนวิธีการเรียนรู้และการประยุกต์ของการรู้จํารูปแบบ",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145220_LO3)",
-            "target": "1145220_LO3",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "Topics (การสร้างแบบจำลองการทำงานของเป้าหมาย)",
-            "target": "การสร้างแบบจำลองการทำงานของเป้าหมาย",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145217_LO4)",
-            "target": "1145217_LO4",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145006_LO1)",
-            "target": "1145006_LO1",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145220_LO9)",
-            "target": "1145220_LO9",
-            "name": "isabletoAnalyzeProblemOf"
-        },
-        {
-            "source": "LearningObjectives (1141002_LO7)",
-            "target": "1141002_LO7",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145217_LO4)",
-            "target": "1145217_LO4",
-            "name": "isabletoApplyKnowledgeOf"
-        },
-        {
-            "source": "Topics (การนับและความน่าจะเป็น)",
-            "target": "การนับและความน่าจะเป็น",
-            "name": "continueFrom"
-        },
-        {
-            "source": "LearningObjectives (1145003_LO3)",
-            "target": "1145003_LO3",
-            "name": "isabletoUnderstandKnowledgeOf"
-        },
-        {
-            "source": "LearningObjectives (1145006_LO3)",
-            "target": "1145006_LO3",
+            "source": "LearningObjectives (1145004_LO4)",
+            "target": "1145004_LO4",
             "name": "isabletoUnderstandKnowledgeOf"
         },
         {
@@ -4988,14 +2463,2539 @@
             "name": "continueFrom"
         },
         {
+            "source": "Topics (ต้นไม้ตัดสินใจ)",
+            "target": "ต้นไม้ตัดสินใจ",
+            "name": "continueFrom"
+        },
+        {
+            "source": "Courses (1145215)",
+            "target": "1145215",
+            "name": "hasLearningOf"
+        },
+        {
+            "source": "LearningObjectives (1145217_LO5)",
+            "target": "1145217_LO5",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "Topics (ขอบข่ายของการพัฒนาระบบสนับสนุนการตัดสินใจ)",
+            "target": "ขอบข่ายของการพัฒนาระบบสนับสนุนการตัดสินใจ",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145210_LO1)",
+            "target": "1145210_LO1",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145006_LO5)",
+            "target": "1145006_LO5",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "Topics (มัลติเทรดดิง)",
+            "target": "มัลติเทรดดิง",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145210_LO1)",
+            "target": "1145210_LO1",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "LearningObjectives (1145215_LO5)",
+            "target": "1145215_LO5",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145217_LO4)",
+            "target": "1145217_LO4",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "Topics (ทรี)",
+            "target": "ทรี",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145002_LO6)",
+            "target": "1145002_LO6",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "LearningObjectives (1145102_LO3)",
+            "target": "1145102_LO3",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "LearningObjectives (1145002_LO2)",
+            "target": "1145002_LO2",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145007_LO3)",
+            "target": "1145007_LO3",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "Topics (การประกันคุณภาพและการควบคุมคุณภาพ)",
+            "target": "การประกันคุณภาพและการควบคุมคุณภาพ",
+            "name": "continueFrom"
+        },
+        {
+            "source": "Topics (เฟรมเวิร์คของฮาดูปแมพรีดิว)",
+            "target": "เฟรมเวิร์คของฮาดูปแมพรีดิว",
+            "name": "continueFrom"
+        },
+        {
+            "source": "Topics (ข้อความสั่ง)",
+            "target": "ข้อความสั่ง",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145202_LO6)",
+            "target": "1145202_LO6",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "Topics (การจัดการข้อยกเว้น)",
+            "target": "การจัดการข้อยกเว้น",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145220_LO7)",
+            "target": "1145220_LO7",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "Topics (การประยุกต์นวัตกรรมซอฟต์แวร์ในงานจริง)",
+            "target": "การประยุกต์นวัตกรรมซอฟต์แวร์ในงานจริง",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145217_LO7)",
+            "target": "1145217_LO7",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "Topics (การวิเคราะห์และออกแบบซอฟต์แวร์)",
+            "target": "การวิเคราะห์และออกแบบซอฟต์แวร์",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145205_LO1)",
+            "target": "1145205_LO1",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1141002_LO5)",
+            "target": "1141002_LO5",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145103_LO5)",
+            "target": "1145103_LO5",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "Topics (การจัดการโปรแกรมส่วนติดต่อกับผู้ใช้)",
+            "target": "การจัดการโปรแกรมส่วนติดต่อกับผู้ใช้",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145102_LO6)",
+            "target": "1145102_LO6",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145216_LO2)",
+            "target": "1145216_LO2",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "LearningObjectives (1145205_LO6)",
+            "target": "1145205_LO6",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "Topics (เฟรมเวิร์คสำหรับพัฒนาซอฟต์แวร์เชิงอ็อบเจกต์)",
+            "target": "เฟรมเวิร์คสำหรับพัฒนาซอฟต์แวร์เชิงอ็อบเจกต์",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145102_LO6)",
+            "target": "1145102_LO6",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "LearningObjectives (1145202_LO6)",
+            "target": "1145202_LO6",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "Topics (คำสั่งเพื่อกำหนดลำดับการทำงาน)",
+            "target": "คำสั่งเพื่อกำหนดลำดับการทำงาน",
+            "name": "continueFrom"
+        },
+        {
+            "source": "Topics (หน่วยประมวลผลกลาง)",
+            "target": "หน่วยประมวลผลกลาง",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145102_LO1)",
+            "target": "1145102_LO1",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "LearningObjectives (1145205_LO6)",
+            "target": "1145205_LO6",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "Courses (1145200)",
+            "target": "1145200",
+            "name": "hasLearningOf"
+        },
+        {
+            "source": "LearningObjectives (1145205_LO5)",
+            "target": "1145205_LO5",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "Courses (1145210)",
+            "target": "1145210",
+            "name": "hasLearningOf"
+        },
+        {
+            "source": "LearningObjectives (1145210_LO4)",
+            "target": "1145210_LO4",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "LearningObjectives (1145219_LO4)",
+            "target": "1145219_LO4",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145000_LO4)",
+            "target": "1145000_LO4",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "Topics (การพัฒนาโมเดลข้อมูล)",
+            "target": "การพัฒนาโมเดลข้อมูล",
+            "name": "continueFrom"
+        },
+        {
+            "source": "Topics (สถาปัตยกรรมฐานข้อมูล)",
+            "target": "สถาปัตยกรรมฐานข้อมูล",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145219_LO5)",
+            "target": "1145219_LO5",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145202_LO7)",
+            "target": "1145202_LO7",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145003_LO1)",
+            "target": "1145003_LO1",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145200_LO5)",
+            "target": "1145200_LO5",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145219_LO6)",
+            "target": "1145219_LO6",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145207_LO1)",
+            "target": "1145207_LO1",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "Topics (การสอบทานการวัดซอฟต์แวร์)",
+            "target": "การสอบทานการวัดซอฟต์แวร์",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145002_LO4)",
+            "target": "1145002_LO4",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "LearningObjectives (1145220_LO8)",
+            "target": "1145220_LO8",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
             "source": "Topics (โมเดลข้อมูล)",
             "target": "โมเดลข้อมูล",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145103_LO7)",
+            "target": "1145103_LO7",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "Topics (การใช้ฮาดูป)",
+            "target": "การใช้ฮาดูป",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145003_LO4)",
+            "target": "1145003_LO4",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "Courses (1145002)",
+            "target": "1145002",
+            "name": "hasLearningOf"
+        },
+        {
+            "source": "LearningObjectives (1145202_LO1)",
+            "target": "1145202_LO1",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145000_LO11)",
+            "target": "1145000_LO11",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "LearningObjectives (1145202_LO4)",
+            "target": "1145202_LO4",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145207_LO2)",
+            "target": "1145207_LO2",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "Topics (การค้นหาคำและกำหนดชนิดของคำ)",
+            "target": "การค้นหาคำและกำหนดชนิดของคำ",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145220_LO9)",
+            "target": "1145220_LO9",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145000_LO5)",
+            "target": "1145000_LO5",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145002_LO8)",
+            "target": "1145002_LO8",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145002_LO9)",
+            "target": "1145002_LO9",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145006_LO1)",
+            "target": "1145006_LO1",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145205_LO3)",
+            "target": "1145205_LO3",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "Topics (การทดสอบอัตโนมัติ)",
+            "target": "การทดสอบอัตโนมัติ",
+            "name": "continueFrom"
+        },
+        {
+            "source": "Topics (การวิเคราะห์นวัตกรรมซอฟต์แวร์ด้วยแบบจำลองทางวิศวกรรมซอฟต์แวร์)",
+            "target": "การวิเคราะห์นวัตกรรมซอฟต์แวร์ด้วยแบบจำลองทางวิศวกรรมซอฟต์แวร์",
+            "name": "continueFrom"
+        },
+        {
+            "source": "Topics (โมเดลกระบวนการซอฟต์แวร์)",
+            "target": "โมเดลกระบวนการซอฟต์แวร์",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145000_LO3)",
+            "target": "1145000_LO3",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145200_LO5)",
+            "target": "1145200_LO5",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145102_LO1)",
+            "target": "1145102_LO1",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145213_LO5)",
+            "target": "1145213_LO5",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "Topics (ความรู้เบื้องต้นเกี่ยวกับวิศวกรรมซอฟต์แวร์)",
+            "target": "ความรู้เบื้องต้นเกี่ยวกับวิศวกรรมซอฟต์แวร์",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145213_LO5)",
+            "target": "1145213_LO5",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "Courses (1141002)",
+            "target": "1141002",
+            "name": "hasLearningOf"
+        },
+        {
+            "source": "LearningObjectives (1141002_LO6)",
+            "target": "1141002_LO6",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "LearningObjectives (1145006_LO6)",
+            "target": "1145006_LO6",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "Topics (แผนภาพต้นไม้)",
+            "target": "แผนภาพต้นไม้",
+            "name": "continueFrom"
+        },
+        {
+            "source": "Topics (การออกแบบและวิเคราะห์การทดลอง)",
+            "target": "การออกแบบและวิเคราะห์การทดลอง",
+            "name": "continueFrom"
+        },
+        {
+            "source": "Courses (1145003)",
+            "target": "1145003",
+            "name": "hasLearningOf"
+        },
+        {
+            "source": "Topics (ชุดคำสั่งและหน่วยควบคุม)",
+            "target": "ชุดคำสั่งและหน่วยควบคุม",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1141001_LO1)",
+            "target": "1141001_LO1",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "LearningObjectives (1145213_LO3)",
+            "target": "1145213_LO3",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "Topics (การสร้างชุดการทดสอบและการเขียนโปรแกรม)",
+            "target": "การสร้างชุดการทดสอบและการเขียนโปรแกรม",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145103_LO2)",
+            "target": "1145103_LO2",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145205_LO2)",
+            "target": "1145205_LO2",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "Topics (สแตก)",
+            "target": "สแตก",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145103_LO2)",
+            "target": "1145103_LO2",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "LearningObjectives (1145004_LO3)",
+            "target": "1145004_LO3",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1141002_LO1)",
+            "target": "1141002_LO1",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "LearningObjectives (1145213_LO2)",
+            "target": "1145213_LO2",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "LearningObjectives (1145200_LO2)",
+            "target": "1145200_LO2",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "Topics (ไวยากรณ์ไม่พึ่งบริบท)",
+            "target": "ไวยากรณ์ไม่พึ่งบริบท",
+            "name": "continueFrom"
+        },
+        {
+            "source": "Topics (หน่วยความจำภายใน)",
+            "target": "หน่วยความจำภายใน",
+            "name": "continueFrom"
+        },
+        {
+            "source": "Topics (การนับและความน่าจะเป็น)",
+            "target": "การนับและความน่าจะเป็น",
+            "name": "continueFrom"
+        },
+        {
+            "source": "Topics (การจัดการเว็บด้วยเอชทีเอ็มแอลจาวาสคริปต์ซีเอสเอส)",
+            "target": "การจัดการเว็บด้วยเอชทีเอ็มแอลจาวาสคริปต์ซีเอสเอส",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145007_LO9)",
+            "target": "1145007_LO9",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145215_LO2)",
+            "target": "1145215_LO2",
+            "name": "hasLearningContentOf"
+        },
+        {
+            "source": "Topics (การประมวลผลรายการ)",
+            "target": "การประมวลผลรายการ",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145001_LO3)",
+            "target": "1145001_LO3",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "Topics (หน่วยความจำแคช)",
+            "target": "หน่วยความจำแคช",
+            "name": "continueFrom"
+        },
+        {
+            "source": "Topics (การบำรุงรักษาซอฟต์แวร์)",
+            "target": "การบำรุงรักษาซอฟต์แวร์",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145002_LO5)",
+            "target": "1145002_LO5",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "LearningObjectives (1145220_LO5)",
+            "target": "1145220_LO5",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145203_LO7)",
+            "target": "1145203_LO7",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145103_LO3)",
+            "target": "1145103_LO3",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "LearningObjectives (1145004_LO3)",
+            "target": "1145004_LO3",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "Topics (เทคนิคการค้นหาข้อมูล)",
+            "target": "เทคนิคการค้นหาข้อมูล",
+            "name": "continueFrom"
+        },
+        {
+            "source": "Topics (ทรัพย์สินทางปัญญา)",
+            "target": "ทรัพย์สินทางปัญญา",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145215_LO8)",
+            "target": "1145215_LO8",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1141001_LO3)",
+            "target": "1141001_LO3",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "Topics (รูปแบบมาร์คอฟ)",
+            "target": "รูปแบบมาร์คอฟ",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145215_LO5)",
+            "target": "1145215_LO5",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "Topics (วิศวกรรมความต้องการแบบกึ่งรูปนัยและรูปนัย)",
+            "target": "วิศวกรรมความต้องการแบบกึ่งรูปนัยและรูปนัย",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145217_LO2)",
+            "target": "1145217_LO2",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145007_LO7)",
+            "target": "1145007_LO7",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145213_LO6)",
+            "target": "1145213_LO6",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "Topics (ตัวแปรและชนิดข้อมูล)",
+            "target": "ตัวแปรและชนิดข้อมูล",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145103_LO1)",
+            "target": "1145103_LO1",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "LearningObjectives (1145007_LO1)",
+            "target": "1145007_LO1",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145003_LO4)",
+            "target": "1145003_LO4",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "Topics (การเตรียมข้อมูล)",
+            "target": "การเตรียมข้อมูล",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145215_LO8)",
+            "target": "1145215_LO8",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145208_LO4)",
+            "target": "1145208_LO4",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145007_LO2)",
+            "target": "1145007_LO2",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145006_LO6)",
+            "target": "1145006_LO6",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145003_LO1)",
+            "target": "1145003_LO1",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145213_LO7)",
+            "target": "1145213_LO7",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "LearningObjectives (1145007_LO5)",
+            "target": "1145007_LO5",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145200_LO4)",
+            "target": "1145200_LO4",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "LearningObjectives (1145219_LO2)",
+            "target": "1145219_LO2",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145102_LO9)",
+            "target": "1145102_LO9",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145203_LO5)",
+            "target": "1145203_LO5",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1141002_LO7)",
+            "target": "1141002_LO7",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "LearningObjectives (1145000_LO2)",
+            "target": "1145000_LO2",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "LearningObjectives (1145208_LO3)",
+            "target": "1145208_LO3",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145205_LO7)",
+            "target": "1145205_LO7",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145208_LO1)",
+            "target": "1145208_LO1",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145219_LO7)",
+            "target": "1145219_LO7",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145002_LO7)",
+            "target": "1145002_LO7",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145220_LO9)",
+            "target": "1145220_LO9",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "LearningObjectives (1145002_LO10)",
+            "target": "1145002_LO10",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "Topics (การระบุความต้องการและการจัดทําเอกสารความต้องการ)",
+            "target": "การระบุความต้องการและการจัดทําเอกสารความต้องการ",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145202_LO2)",
+            "target": "1145202_LO2",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "Topics (ระบบแปลภาษาด้วยเครื่อง)",
+            "target": "ระบบแปลภาษาด้วยเครื่อง",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145217_LO8)",
+            "target": "1145217_LO8",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145103_LO7)",
+            "target": "1145103_LO7",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145203_LO7)",
+            "target": "1145203_LO7",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "Topics (การยืนยันความถูกต้องและความผิดพลาด)",
+            "target": "การยืนยันความถูกต้องและความผิดพลาด",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145202_LO7)",
+            "target": "1145202_LO7",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "Courses (1145006)",
+            "target": "1145006",
+            "name": "hasLearningOf"
+        },
+        {
+            "source": "LearningObjectives (1145000_LO5)",
+            "target": "1145000_LO5",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145208_LO1)",
+            "target": "1145208_LO1",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "Courses (1145217)",
+            "target": "1145217",
+            "name": "hasLearningOf"
+        },
+        {
+            "source": "LearningObjectives (1145000_LO10)",
+            "target": "1145000_LO10",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145217_LO7)",
+            "target": "1145217_LO7",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145202_LO5)",
+            "target": "1145202_LO5",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145006_LO2)",
+            "target": "1145006_LO2",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "LearningObjectives (1145217_LO4)",
+            "target": "1145217_LO4",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "Topics (การจัดกลุ่มโดยใช้ขั้นตอนวิธีเคมีนส์)",
+            "target": "การจัดกลุ่มโดยใช้ขั้นตอนวิธีเคมีนส์",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145203_LO2)",
+            "target": "1145203_LO2",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145004_LO1)",
+            "target": "1145004_LO1",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "LearningObjectives (1145003_LO4)",
+            "target": "1145003_LO4",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "LearningObjectives (1145210_LO3)",
+            "target": "1145210_LO3",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "Topics (กระบวนการพัฒนานวัตกรรมซอฟต์แวร์)",
+            "target": "กระบวนการพัฒนานวัตกรรมซอฟต์แวร์",
+            "name": "continueFrom"
+        },
+        {
+            "source": "Topics (การสร้างโปรแกรมประยุกต์บนคลาวด์)",
+            "target": "การสร้างโปรแกรมประยุกต์บนคลาวด์",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145202_LO2)",
+            "target": "1145202_LO2",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "Topics (การจำแนกประเภทข้อมูล)",
+            "target": "การจำแนกประเภทข้อมูล",
+            "name": "continueFrom"
+        },
+        {
+            "source": "Topics (คำสั่งควบคุม)",
+            "target": "คำสั่งควบคุม",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145000_LO1)",
+            "target": "1145000_LO1",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145103_LO6)",
+            "target": "1145103_LO6",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145007_LO8)",
+            "target": "1145007_LO8",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145102_LO8)",
+            "target": "1145102_LO8",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "Topics (กรณีศึกษา)",
+            "target": "กรณีศึกษา",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145213_LO1)",
+            "target": "1145213_LO1",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "Topics (ขั้นตอนวิธีการแบ่งกลุ่ม)",
+            "target": "ขั้นตอนวิธีการแบ่งกลุ่ม",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145007_LO1)",
+            "target": "1145007_LO1",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145207_LO2)",
+            "target": "1145207_LO2",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "Topics (พื้นฐานทางด้านภาษาศาสตร์)",
+            "target": "พื้นฐานทางด้านภาษาศาสตร์",
+            "name": "continueFrom"
+        },
+        {
+            "source": "Topics (เครื่องมือทางสถิติ)",
+            "target": "เครื่องมือทางสถิติ",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145001_LO5)",
+            "target": "1145001_LO5",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145001_LO4)",
+            "target": "1145001_LO4",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145208_LO5)",
+            "target": "1145208_LO5",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "LearningObjectives (1145215_LO4)",
+            "target": "1145215_LO4",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145102_LO2)",
+            "target": "1145102_LO2",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "Topics (เทคนิคการเรียงลำดับข้อมูล)",
+            "target": "เทคนิคการเรียงลำดับข้อมูล",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145215_LO4)",
+            "target": "1145215_LO4",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "Topics (ดีลิเกตและอีเวนต์)",
+            "target": "ดีลิเกตและอีเวนต์",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145207_LO3)",
+            "target": "1145207_LO3",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145220_LO6)",
+            "target": "1145220_LO6",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "Courses (1145216)",
+            "target": "1145216",
+            "name": "hasLearningOf"
+        },
+        {
+            "source": "LearningObjectives (1145217_LO2)",
+            "target": "1145217_LO2",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "Topics (วิธีการทดสอบซอฟแวร์)",
+            "target": "วิธีการทดสอบซอฟแวร์",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145220_LO1)",
+            "target": "1145220_LO1",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145102_LO5)",
+            "target": "1145102_LO5",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "Topics (ระเบียบวิธีการวิเคราะห์และออกแบบระบบด้วยหลักการเชิงอ็อบเจกต์)",
+            "target": "ระเบียบวิธีการวิเคราะห์และออกแบบระบบด้วยหลักการเชิงอ็อบเจกต์",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145001_LO1)",
+            "target": "1145001_LO1",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "Topics (วิศวกรรมความต้องการ)",
+            "target": "วิศวกรรมความต้องการ",
+            "name": "continueFrom"
+        },
+        {
+            "source": "Topics (ระบบสนับสนุนการวัด)",
+            "target": "ระบบสนับสนุนการวัด",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145102_LO4)",
+            "target": "1145102_LO4",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "LearningObjectives (1145213_LO8)",
+            "target": "1145213_LO8",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "LearningObjectives (1145205_LO3)",
+            "target": "1145205_LO3",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145202_LO3)",
+            "target": "1145202_LO3",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145202_LO3)",
+            "target": "1145202_LO3",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "LearningObjectives (1145208_LO2)",
+            "target": "1145208_LO2",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "LearningObjectives (1145007_LO4)",
+            "target": "1145007_LO4",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145219_LO6)",
+            "target": "1145219_LO6",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145208_LO5)",
+            "target": "1145208_LO5",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "Topics (วงจรตรรกะเชิงตัวเลข)",
+            "target": "วงจรตรรกะเชิงตัวเลข",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145002_LO1)",
+            "target": "1145002_LO1",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145203_LO4)",
+            "target": "1145203_LO4",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "LearningObjectives (1145001_LO1)",
+            "target": "1145001_LO1",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "Topics (แนวคิดเกี่ยวกับภาษาซีชาร์ปและดอทเน็ตเฟรมเวิรค์)",
+            "target": "แนวคิดเกี่ยวกับภาษาซีชาร์ปและดอทเน็ตเฟรมเวิรค์",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145213_LO4)",
+            "target": "1145213_LO4",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "LearningObjectives (1145004_LO8)",
+            "target": "1145004_LO8",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145007_LO7)",
+            "target": "1145007_LO7",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "LearningObjectives (1145103_LO4)",
+            "target": "1145103_LO4",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "LearningObjectives (1145203_LO5)",
+            "target": "1145203_LO5",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145200_LO4)",
+            "target": "1145200_LO4",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145219_LO4)",
+            "target": "1145219_LO4",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "Topics (อุปกรณ์รับส่งข้อมูล)",
+            "target": "อุปกรณ์รับส่งข้อมูล",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145205_LO5)",
+            "target": "1145205_LO5",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145210_LO4)",
+            "target": "1145210_LO4",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "Topics (การทดสอบแบบอไจล์)",
+            "target": "การทดสอบแบบอไจล์",
+            "name": "continueFrom"
+        },
+        {
+            "source": "Topics (ประสิทธิภาพการออกแบบโมเดลข้อมูล)",
+            "target": "ประสิทธิภาพการออกแบบโมเดลข้อมูล",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145002_LO3)",
+            "target": "1145002_LO3",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "Courses (1145205)",
+            "target": "1145205",
+            "name": "hasLearningOf"
+        },
+        {
+            "source": "LearningObjectives (1145217_LO2)",
+            "target": "1145217_LO2",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "Topics (ภาวะพหุสัณฐาน)",
+            "target": "ภาวะพหุสัณฐาน",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145004_LO5)",
+            "target": "1145004_LO5",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "LearningObjectives (1145216_LO5)",
+            "target": "1145216_LO5",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "Topics (วิศวกรรมความต้องการเน้นที่เป้าหมาย)",
+            "target": "วิศวกรรมความต้องการเน้นที่เป้าหมาย",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145000_LO8)",
+            "target": "1145000_LO8",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145217_LO3)",
+            "target": "1145217_LO3",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145219_LO2)",
+            "target": "1145219_LO2",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145210_LO2)",
+            "target": "1145210_LO2",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145216_LO1)",
+            "target": "1145216_LO1",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145000_LO11)",
+            "target": "1145000_LO11",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145002_LO2)",
+            "target": "1145002_LO2",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "Topics (การประยุกต์การวัดซอฟต์แวร์)",
+            "target": "การประยุกต์การวัดซอฟต์แวร์",
+            "name": "continueFrom"
+        },
+        {
+            "source": "Topics (การวิเคราะห์ทางความหมาย)",
+            "target": "การวิเคราะห์ทางความหมาย",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145102_LO7)",
+            "target": "1145102_LO7",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145217_LO7)",
+            "target": "1145217_LO7",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145002_LO7)",
+            "target": "1145002_LO7",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145004_LO4)",
+            "target": "1145004_LO4",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145102_LO2)",
+            "target": "1145102_LO2",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "Topics (โครงสร้างข้อมูลแบบเชิงเส้น)",
+            "target": "โครงสร้างข้อมูลแบบเชิงเส้น",
+            "name": "continueFrom"
+        },
+        {
+            "source": "Topics (พื้นฐานทฤษฎีสำหรับการวัดซอฟต์แวร์)",
+            "target": "พื้นฐานทฤษฎีสำหรับการวัดซอฟต์แวร์",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145002_LO2)",
+            "target": "1145002_LO2",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "Courses (1145004)",
+            "target": "1145004",
+            "name": "hasLearningOf"
+        },
+        {
+            "source": "LearningObjectives (1145102_LO9)",
+            "target": "1145102_LO9",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "LearningObjectives (1145207_LO4)",
+            "target": "1145207_LO4",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "LearningObjectives (1145006_LO2)",
+            "target": "1145006_LO2",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145103_LO5)",
+            "target": "1145103_LO5",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "Topics (การออกแบบโมเดลข้อมูล)",
+            "target": "การออกแบบโมเดลข้อมูล",
+            "name": "continueFrom"
+        },
+        {
+            "source": "Topics (การประยุกต์ใช้โครงสร้างข้อมูล)",
+            "target": "การประยุกต์ใช้โครงสร้างข้อมูล",
+            "name": "continueFrom"
+        },
+        {
+            "source": "Topics (ระบบบัส)",
+            "target": "ระบบบัส",
+            "name": "continueFrom"
+        },
+        {
+            "source": "Topics (การพัฒนาโปรแกรมแบบวินโดว์)",
+            "target": "การพัฒนาโปรแกรมแบบวินโดว์",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145219_LO1)",
+            "target": "1145219_LO1",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145001_LO6)",
+            "target": "1145001_LO6",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145202_LO5)",
+            "target": "1145202_LO5",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "LearningObjectives (1145000_LO3)",
+            "target": "1145000_LO3",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145007_LO6)",
+            "target": "1145007_LO6",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "Topics (ตัวแยกประเภทแบบเบยส์)",
+            "target": "ตัวแยกประเภทแบบเบยส์",
+            "name": "continueFrom"
+        },
+        {
+            "source": "Topics (การรู้จำเสียงพูด)",
+            "target": "การรู้จำเสียงพูด",
+            "name": "continueFrom"
+        },
+        {
+            "source": "Topics (เอดีโอดอทเน็ตและลิงก์)",
+            "target": "เอดีโอดอทเน็ตและลิงก์",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145004_LO7)",
+            "target": "1145004_LO7",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145004_LO5)",
+            "target": "1145004_LO5",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145215_LO7)",
+            "target": "1145215_LO7",
+            "name": "hasLearningContentOf"
+        },
+        {
+            "source": "LearningObjectives (1145207_LO1)",
+            "target": "1145207_LO1",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "LearningObjectives (1145205_LO2)",
+            "target": "1145205_LO2",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145002_LO3)",
+            "target": "1145002_LO3",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "Topics (หลักการภาษาแอสเซมบลี)",
+            "target": "หลักการภาษาแอสเซมบลี",
+            "name": "continueFrom"
+        },
+        {
+            "source": "Topics (ความคิดพื้นฐานและการประยุกต์การสอบทานกระบวนการ)",
+            "target": "ความคิดพื้นฐานและการประยุกต์การสอบทานกระบวนการ",
+            "name": "continueFrom"
+        },
+        {
+            "source": "Topics (การจัดการมัลติมีเดีย)",
+            "target": "การจัดการมัลติมีเดีย",
+            "name": "continueFrom"
+        },
+        {
+            "source": "Topics (การพัฒนาโครงงานเชิงอ็อบเจกต์)",
+            "target": "การพัฒนาโครงงานเชิงอ็อบเจกต์",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145208_LO2)",
+            "target": "1145208_LO2",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145208_LO4)",
+            "target": "1145208_LO4",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "LearningObjectives (1141001_LO3)",
+            "target": "1141001_LO3",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145202_LO8)",
+            "target": "1145202_LO8",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "Topics (ระเบียบวิธีการวิเคราะห์และออกแบบระบบเชิงโครงสร้าง)",
+            "target": "ระเบียบวิธีการวิเคราะห์และออกแบบระบบเชิงโครงสร้าง",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145006_LO2)",
+            "target": "1145006_LO2",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145202_LO4)",
+            "target": "1145202_LO4",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "Topics (กระบวนการในการเก็บรักษาข้อมูล)",
+            "target": "กระบวนการในการเก็บรักษาข้อมูล",
+            "name": "continueFrom"
+        },
+        {
+            "source": "Courses (1145103)",
+            "target": "1145103",
+            "name": "hasLearningOf"
+        },
+        {
+            "source": "Topics (การประเมินราคาและความพยายาม)",
+            "target": "การประเมินราคาและความพยายาม",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145000_LO7)",
+            "target": "1145000_LO7",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145102_LO5)",
+            "target": "1145102_LO5",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145000_LO9)",
+            "target": "1145000_LO9",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145000_LO6)",
+            "target": "1145000_LO6",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "LearningObjectives (1145007_LO5)",
+            "target": "1145007_LO5",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145007_LO1)",
+            "target": "1145007_LO1",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "LearningObjectives (1145007_LO7)",
+            "target": "1145007_LO7",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145103_LO5)",
+            "target": "1145103_LO5",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145102_LO4)",
+            "target": "1145102_LO4",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145102_LO6)",
+            "target": "1145102_LO6",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145217_LO5)",
+            "target": "1145217_LO5",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "LearningObjectives (1145220_LO4)",
+            "target": "1145220_LO4",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "Topics (การเข้าใจภาษาธรรมชาติ)",
+            "target": "การเข้าใจภาษาธรรมชาติ",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145102_LO7)",
+            "target": "1145102_LO7",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "Topics (การสร้างแบบจำลองความต้องการระบบด้วยแผนภาพเป้าหมายเคออส)",
+            "target": "การสร้างแบบจำลองความต้องการระบบด้วยแผนภาพเป้าหมายเคออส",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145001_LO5)",
+            "target": "1145001_LO5",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "Topics (การควบคุมภาวการณ์เข้าใช้งานข้อมูลพร้อมกัน)",
+            "target": "การควบคุมภาวการณ์เข้าใช้งานข้อมูลพร้อมกัน",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145202_LO1)",
+            "target": "1145202_LO1",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "LearningObjectives (1145207_LO5)",
+            "target": "1145207_LO5",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "Topics (ตัวดำเนินการและประเภทของคำสั่ง)",
+            "target": "ตัวดำเนินการและประเภทของคำสั่ง",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145002_LO3)",
+            "target": "1145002_LO3",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145208_LO3)",
+            "target": "1145208_LO3",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "Topics (การวิเคราะห์ความต้องการ)",
+            "target": "การวิเคราะห์ความต้องการ",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145001_LO2)",
+            "target": "1145001_LO2",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145210_LO4)",
+            "target": "1145210_LO4",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "Topics (วิธีการคัดเลือกลักษณะ)",
+            "target": "วิธีการคัดเลือกลักษณะ",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145002_LO1)",
+            "target": "1145002_LO1",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "Topics (การกู้คืนและสำรองข้อมูล)",
+            "target": "การกู้คืนและสำรองข้อมูล",
+            "name": "continueFrom"
+        },
+        {
+            "source": "Topics (การศึกษาความเป็นไปได้)",
+            "target": "การศึกษาความเป็นไปได้",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145217_LO3)",
+            "target": "1145217_LO3",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "Topics (คำสั่งควบคุมการทำงาน)",
+            "target": "คำสั่งควบคุมการทำงาน",
+            "name": "continueFrom"
+        },
+        {
+            "source": "Courses (1145219)",
+            "target": "1145219",
+            "name": "hasLearningOf"
+        },
+        {
+            "source": "LearningObjectives (1145102_LO5)",
+            "target": "1145102_LO5",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "Topics (โครงสร้างข้อมูลแบบไม่เชิงเส้น)",
+            "target": "โครงสร้างข้อมูลแบบไม่เชิงเส้น",
+            "name": "continueFrom"
+        },
+        {
+            "source": "Courses (1145102)",
+            "target": "1145102",
+            "name": "hasLearningOf"
+        },
+        {
+            "source": "LearningObjectives (1145215_LO1)",
+            "target": "1145215_LO1",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "Topics (ตัวแปรและตัวดำเนินการ)",
+            "target": "ตัวแปรและตัวดำเนินการ",
+            "name": "continueFrom"
+        },
+        {
+            "source": "Courses (1141001)",
+            "target": "1141001",
+            "name": "hasLearningOf"
+        },
+        {
+            "source": "LearningObjectives (1145216_LO3)",
+            "target": "1145216_LO3",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "Topics (ขั้นตอนวิธีการเรียนรู้และการประยุกต์ของการรู้จํารูปแบบ)",
+            "target": "ขั้นตอนวิธีการเรียนรู้และการประยุกต์ของการรู้จํารูปแบบ",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145004_LO5)",
+            "target": "1145004_LO5",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "Topics (ระบบสนับสนุนการตัดสินใจแบบกลุ่ม)",
+            "target": "ระบบสนับสนุนการตัดสินใจแบบกลุ่ม",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145200_LO1)",
+            "target": "1145200_LO1",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "Courses (1145000)",
+            "target": "1145000",
+            "name": "hasLearningOf"
+        },
+        {
+            "source": "LearningObjectives (1145200_LO3)",
+            "target": "1145200_LO3",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "Topics (ฟังก์ชัน)",
+            "target": "ฟังก์ชัน",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145207_LO2)",
+            "target": "1145207_LO2",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "Courses (1145220)",
+            "target": "1145220",
+            "name": "hasLearningOf"
+        },
+        {
+            "source": "LearningObjectives (1145004_LO4)",
+            "target": "1145004_LO4",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "LearningObjectives (1145002_LO9)",
+            "target": "1145002_LO9",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "LearningObjectives (1145007_LO8)",
+            "target": "1145007_LO8",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145203_LO4)",
+            "target": "1145203_LO4",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145220_LO9)",
+            "target": "1145220_LO9",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145001_LO4)",
+            "target": "1145001_LO4",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "Topics (เครื่องมือในการเรียนรู้เชิงลึก)",
+            "target": "เครื่องมือในการเรียนรู้เชิงลึก",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145003_LO3)",
+            "target": "1145003_LO3",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145002_LO7)",
+            "target": "1145002_LO7",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "LearningObjectives (1145001_LO3)",
+            "target": "1145001_LO3",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "LearningObjectives (1145207_LO4)",
+            "target": "1145207_LO4",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1141002_LO4)",
+            "target": "1141002_LO4",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145213_LO6)",
+            "target": "1145213_LO6",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145006_LO6)",
+            "target": "1145006_LO6",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "LearningObjectives (1145203_LO1)",
+            "target": "1145203_LO1",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "LearningObjectives (1145208_LO1)",
+            "target": "1145208_LO1",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "LearningObjectives (1141001_LO1)",
+            "target": "1141001_LO1",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145208_LO3)",
+            "target": "1145208_LO3",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "Topics (แนวคิดเชิงวัตถุ)",
+            "target": "แนวคิดเชิงวัตถุ",
+            "name": "continueFrom"
+        },
+        {
+            "source": "Topics (โครงข่ายประสาทเทียมเชิงลึก)",
+            "target": "โครงข่ายประสาทเทียมเชิงลึก",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145103_LO3)",
+            "target": "1145103_LO3",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "Courses (1145213)",
+            "target": "1145213",
+            "name": "hasLearningOf"
+        },
+        {
+            "source": "LearningObjectives (1145003_LO1)",
+            "target": "1145003_LO1",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "LearningObjectives (1145217_LO5)",
+            "target": "1145217_LO5",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "Topics (รูปแบบข้อมูลสําหรับการเรียนรู้เชิงลึก)",
+            "target": "รูปแบบข้อมูลสําหรับการเรียนรู้เชิงลึก",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145004_LO7)",
+            "target": "1145004_LO7",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145000_LO6)",
+            "target": "1145000_LO6",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "Topics (การใช้การวัด)",
+            "target": "การใช้การวัด",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145102_LO9)",
+            "target": "1145102_LO9",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145215_LO3)",
+            "target": "1145215_LO3",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "Topics (การวิเคราะห์เวลาดำเนินงานและความซับซ้อนของขั้นตอนวิธี)",
+            "target": "การวิเคราะห์เวลาดำเนินงานและความซับซ้อนของขั้นตอนวิธี",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145203_LO1)",
+            "target": "1145203_LO1",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1141001_LO1)",
+            "target": "1141001_LO1",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145001_LO3)",
+            "target": "1145001_LO3",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145219_LO1)",
+            "target": "1145219_LO1",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "Topics (การตรวจสอบความถูกต้อง)",
+            "target": "การตรวจสอบความถูกต้อง",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145004_LO1)",
+            "target": "1145004_LO1",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "Topics (ออโตมาตาแกรมมาและภาษา)",
+            "target": "ออโตมาตาแกรมมาและภาษา",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145217_LO6)",
+            "target": "1145217_LO6",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "Topics (การวิเคราะห์ทางวากยสัมพันธ์)",
+            "target": "การวิเคราะห์ทางวากยสัมพันธ์",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145208_LO2)",
+            "target": "1145208_LO2",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145220_LO7)",
+            "target": "1145220_LO7",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "Topics (โครงสร้างและกระบวนการจัดการข้อมูลก่อนทำคลังข้อมูล)",
+            "target": "โครงสร้างและกระบวนการจัดการข้อมูลก่อนทำคลังข้อมูล",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145002_LO4)",
+            "target": "1145002_LO4",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145220_LO3)",
+            "target": "1145220_LO3",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145007_LO2)",
+            "target": "1145007_LO2",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "LearningObjectives (1145102_LO8)",
+            "target": "1145102_LO8",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "LearningObjectives (1145216_LO5)",
+            "target": "1145216_LO5",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145002_LO10)",
+            "target": "1145002_LO10",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "Topics (การประยุกต์ใช้เหมืองข้อมูล)",
+            "target": "การประยุกต์ใช้เหมืองข้อมูล",
+            "name": "continueFrom"
+        },
+        {
+            "source": "Topics (การวิเคราะห์และออกแบบฐานข้อมูล)",
+            "target": "การวิเคราะห์และออกแบบฐานข้อมูล",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145004_LO6)",
+            "target": "1145004_LO6",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145202_LO8)",
+            "target": "1145202_LO8",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145002_LO8)",
+            "target": "1145002_LO8",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "LearningObjectives (1145003_LO3)",
+            "target": "1145003_LO3",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "Topics (การจัดการเหตุการณ์และการโต้ตอบ)",
+            "target": "การจัดการเหตุการณ์และการโต้ตอบ",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1141001_LO3)",
+            "target": "1141001_LO3",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145205_LO4)",
+            "target": "1145205_LO4",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145006_LO3)",
+            "target": "1145006_LO3",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145215_LO6)",
+            "target": "1145215_LO6",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145210_LO3)",
+            "target": "1145210_LO3",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145217_LO1)",
+            "target": "1145217_LO1",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145001_LO6)",
+            "target": "1145001_LO6",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "LearningObjectives (1145215_LO3)",
+            "target": "1145215_LO3",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145102_LO7)",
+            "target": "1145102_LO7",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "LearningObjectives (1141002_LO7)",
+            "target": "1141002_LO7",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "Topics (การแยกข้อมูล)",
+            "target": "การแยกข้อมูล",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145002_LO8)",
+            "target": "1145002_LO8",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145002_LO6)",
+            "target": "1145002_LO6",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145103_LO6)",
+            "target": "1145103_LO6",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "LearningObjectives (1145220_LO6)",
+            "target": "1145220_LO6",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "Topics (การจัดการไฟล์อินพุตเอาท์พุต)",
+            "target": "การจัดการไฟล์อินพุตเอาท์พุต",
+            "name": "continueFrom"
+        },
+        {
+            "source": "Courses (1145207)",
+            "target": "1145207",
+            "name": "hasLearningOf"
+        },
+        {
+            "source": "Topics (แบบอย่างและสัญนิยมการเขียนโปรแกรม)",
+            "target": "แบบอย่างและสัญนิยมการเขียนโปรแกรม",
+            "name": "continueFrom"
+        },
+        {
+            "source": "Topics (เครื่องมือที่ใช้ในการทดสอบ)",
+            "target": "เครื่องมือที่ใช้ในการทดสอบ",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145102_LO4)",
+            "target": "1145102_LO4",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "Topics (ความสัมพันธ์)",
+            "target": "ความสัมพันธ์",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145213_LO9)",
+            "target": "1145213_LO9",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "Topics (ระบบสำหรับวัดซอฟต์แวร์)",
+            "target": "ระบบสำหรับวัดซอฟต์แวร์",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145215_LO5)",
+            "target": "1145215_LO5",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "Topics (การออกแบบและกระบวนการของธุรกิจอัจฉริยะ)",
+            "target": "การออกแบบและกระบวนการของธุรกิจอัจฉริยะ",
+            "name": "continueFrom"
+        },
+        {
+            "source": "Topics (กระบวนการทดสอบซอฟแวร์)",
+            "target": "กระบวนการทดสอบซอฟแวร์",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145220_LO5)",
+            "target": "1145220_LO5",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "Topics (เทคนิคการแยกประโยคเบื้องต้น)",
+            "target": "เทคนิคการแยกประโยคเบื้องต้น",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145213_LO1)",
+            "target": "1145213_LO1",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145000_LO9)",
+            "target": "1145000_LO9",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145210_LO2)",
+            "target": "1145210_LO2",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145210_LO2)",
+            "target": "1145210_LO2",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "Topics (ตัวปฏิบัติการ)",
+            "target": "ตัวปฏิบัติการ",
+            "name": "continueFrom"
+        },
+        {
+            "source": "Topics (ตรรกศาสตร์และการพิสูจน์)",
+            "target": "ตรรกศาสตร์และการพิสูจน์",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145217_LO1)",
+            "target": "1145217_LO1",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "LearningObjectives (1145217_LO1)",
+            "target": "1145217_LO1",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "Topics (การค้นหากฎความสัมพันธ์ของข้อมูล)",
+            "target": "การค้นหากฎความสัมพันธ์ของข้อมูล",
+            "name": "continueFrom"
+        },
+        {
+            "source": "Topics (คิว)",
+            "target": "คิว",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145000_LO10)",
+            "target": "1145000_LO10",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "LearningObjectives (1145007_LO9)",
+            "target": "1145007_LO9",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145002_LO6)",
+            "target": "1145002_LO6",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145006_LO4)",
+            "target": "1145006_LO4",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145217_LO3)",
+            "target": "1145217_LO3",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "Courses (1145007)",
+            "target": "1145007",
+            "name": "hasLearningOf"
+        },
+        {
+            "source": "LearningObjectives (1145202_LO6)",
+            "target": "1145202_LO6",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145000_LO2)",
+            "target": "1145000_LO2",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145001_LO4)",
+            "target": "1145001_LO4",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "LearningObjectives (1145205_LO7)",
+            "target": "1145205_LO7",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "Topics (ทีคิวเอ็ม)",
+            "target": "ทีคิวเอ็ม",
+            "name": "continueFrom"
+        },
+        {
+            "source": "Topics (ส่วนสนับสนุนระบบปฏิบัติการ)",
+            "target": "ส่วนสนับสนุนระบบปฏิบัติการ",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145219_LO7)",
+            "target": "1145219_LO7",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145004_LO6)",
+            "target": "1145004_LO6",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145103_LO4)",
+            "target": "1145103_LO4",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145000_LO1)",
+            "target": "1145000_LO1",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "Topics (อาร์เรย์)",
+            "target": "อาร์เรย์",
+            "name": "continueFrom"
+        },
+        {
+            "source": "Topics (การบริการข้อมูลพื้นที่และระบบฝังตัวอื่น)",
+            "target": "การบริการข้อมูลพื้นที่และระบบฝังตัวอื่น",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145202_LO3)",
+            "target": "1145202_LO3",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "Topics (การได้มาซึ่งความต้องการและการประเมินความต้องการ)",
+            "target": "การได้มาซึ่งความต้องการและการประเมินความต้องการ",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145219_LO5)",
+            "target": "1145219_LO5",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145000_LO8)",
+            "target": "1145000_LO8",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "LearningObjectives (1145202_LO4)",
+            "target": "1145202_LO4",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "LearningObjectives (1145002_LO9)",
+            "target": "1145002_LO9",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145216_LO5)",
+            "target": "1145216_LO5",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "LearningObjectives (1145217_LO4)",
+            "target": "1145217_LO4",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "Topics (ลิงค์ลิสต์)",
+            "target": "ลิงค์ลิสต์",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1141002_LO4)",
+            "target": "1141002_LO4",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "LearningObjectives (1141002_LO1)",
+            "target": "1141002_LO1",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145203_LO6)",
+            "target": "1145203_LO6",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "Topics (คลาสอ๊อบเจกต์และโครงสร้างข้อมูล)",
+            "target": "คลาสอ๊อบเจกต์และโครงสร้างข้อมูล",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145000_LO7)",
+            "target": "1145000_LO7",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "LearningObjectives (1145103_LO4)",
+            "target": "1145103_LO4",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "Topics (โมเดลเชิงสัมพันธ์)",
+            "target": "โมเดลเชิงสัมพันธ์",
+            "name": "continueFrom"
+        },
+        {
+            "source": "Topics (การแทนความรู้)",
+            "target": "การแทนความรู้",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145000_LO11)",
+            "target": "1145000_LO11",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145207_LO5)",
+            "target": "1145207_LO5",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145220_LO8)",
+            "target": "1145220_LO8",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "Topics (เทคนิคในการสร้างโมเดลสำหรับการตัดสินใจ)",
+            "target": "เทคนิคในการสร้างโมเดลสำหรับการตัดสินใจ",
             "name": "continueFrom"
         },
         {
             "source": "Topics (ระบบบริการฐานข้อมูลและเว็บ)",
             "target": "ระบบบริการฐานข้อมูลและเว็บ",
             "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145200_LO2)",
+            "target": "1145200_LO2",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1141002_LO2)",
+            "target": "1141002_LO2",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145207_LO5)",
+            "target": "1145207_LO5",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "Courses (1145203)",
+            "target": "1145203",
+            "name": "hasLearningOf"
+        },
+        {
+            "source": "LearningObjectives (1145007_LO4)",
+            "target": "1145007_LO4",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "Topics (สถาปัตยกรรมระบบปฏิบัติการอุปกรณ์เคลื่อนที่)",
+            "target": "สถาปัตยกรรมระบบปฏิบัติการอุปกรณ์เคลื่อนที่",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145220_LO2)",
+            "target": "1145220_LO2",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "Topics (ซอฟต์แวร์ที่ใช้ในการทำเหมืองข้อมูล)",
+            "target": "ซอฟต์แวร์ที่ใช้ในการทำเหมืองข้อมูล",
+            "name": "continueFrom"
+        },
+        {
+            "source": "Topics (กราฟ)",
+            "target": "กราฟ",
+            "name": "continueFrom"
+        },
+        {
+            "source": "Topics (การใช้วิธีของอไจล์ในการพัฒนาซอฟแวร์)",
+            "target": "การใช้วิธีของอไจล์ในการพัฒนาซอฟแวร์",
+            "name": "continueFrom"
+        },
+        {
+            "source": "Topics (การรายงานการทดสอบ)",
+            "target": "การรายงานการทดสอบ",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145000_LO10)",
+            "target": "1145000_LO10",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "Topics (การตรวจสอบความถูกต้องความต้องการ)",
+            "target": "การตรวจสอบความถูกต้องความต้องการ",
+            "name": "continueFrom"
+        },
+        {
+            "source": "Topics (วงจรการพัฒนาซอฟต์แวร์)",
+            "target": "วงจรการพัฒนาซอฟต์แวร์",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145103_LO1)",
+            "target": "1145103_LO1",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145207_LO4)",
+            "target": "1145207_LO4",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145006_LO5)",
+            "target": "1145006_LO5",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "Topics (การทำเหมืองข้อมูลบนเว็บ)",
+            "target": "การทำเหมืองข้อมูลบนเว็บ",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145006_LO5)",
+            "target": "1145006_LO5",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1141002_LO3)",
+            "target": "1141002_LO3",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "Topics (พื้นฐานเทคนิคในระบบแนะนำ)",
+            "target": "พื้นฐานเทคนิคในระบบแนะนำ",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145217_LO8)",
+            "target": "1145217_LO8",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "Topics (ความรู้เบื้องต้นเกี่ยวกับภาษาจาวา)",
+            "target": "ความรู้เบื้องต้นเกี่ยวกับภาษาจาวา",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145006_LO3)",
+            "target": "1145006_LO3",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "LearningObjectives (1145202_LO1)",
+            "target": "1145202_LO1",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "Topics (การเก็บข้อมูล)",
+            "target": "การเก็บข้อมูล",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145207_LO3)",
+            "target": "1145207_LO3",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "LearningObjectives (1145220_LO1)",
+            "target": "1145220_LO1",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "Topics (พีชคณิตบูลีน)",
+            "target": "พีชคณิตบูลีน",
+            "name": "continueFrom"
+        },
+        {
+            "source": "LearningObjectives (1145215_LO4)",
+            "target": "1145215_LO4",
+            "name": "isabletoAnalyzeProblemOf"
+        },
+        {
+            "source": "LearningObjectives (1145219_LO3)",
+            "target": "1145219_LO3",
+            "name": "isabletoUnderstandKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1141002_LO8)",
+            "target": "1141002_LO8",
+            "name": "isabletoApplyKnowledgeOf"
+        },
+        {
+            "source": "LearningObjectives (1145210_LO3)",
+            "target": "1145210_LO3",
+            "name": "isabletoApplyKnowledgeOf"
         }
     ]
 }
