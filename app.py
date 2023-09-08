@@ -148,7 +148,7 @@ def extract_nodes_and_links(ontology, course_id):
 def save_json_data(output_file, nodes, links):
     json_data = {
         "nodes": nodes,
-        "links": links
+        "edges": links
     }
 
     with open(output_file, "w", encoding="utf-8") as outfile:
