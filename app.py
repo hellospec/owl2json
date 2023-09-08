@@ -4,13 +4,6 @@ import json
 ontology_file = "file://data/testCurrOntology.owl"
 output_file = "data/output.json"
 
-def create_relationship(source, target, on_property_name):
-    return {
-        "source": source,
-        "target": target,
-        "name": on_property_name
-    }
-
 def load_ontology(file_path):
     return get_ontology(file_path).load()
 
@@ -72,7 +65,6 @@ def create_node(class_name, nodes):
 
 def create_edge(ontology, course_id):
     course = ontology[course_id].is_a
-
     learning_objective_edges, topic_name = create_learning_objective_edges(course)
     course_edge = create_course_edge(course, course_id)
     topic_edge = create_topic_edge(ontology, topic_name)
@@ -120,12 +112,12 @@ def create_learning_objective_edges(course):
             for topic_obj in learning_objective_edge.is_a[1:]:
                 name = str(topic_obj).split(".")[1]
                 title = get_edge_title(name)
-                name = str(topic_obj).split(".")[-1][:-1]
+                target = str(topic_obj).split(".")[-1][:-1]
                 edge = { "source": source, 
-                         "traget": name,
+                         "target": target,
                          "data": { "name": name, "title": title } }
-                if name not in topics:
-                    topics.append(name)
+                if target not in topics:
+                    topics.append(target)
                 if edge not in edges:
                     edges.append(edge)
     return edges, topics
@@ -158,6 +150,5 @@ def save_json_data(output_file, nodes, links):
 
 ontology = load_ontology(ontology_file)
 course_id = "1141001"
-extract_nodes_and_links(ontology, course_id)
 nodes, edges = extract_nodes_and_links(ontology, course_id)
 save_json_data(output_file, nodes, edges)

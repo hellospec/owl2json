@@ -76,169 +76,169 @@
     "edges": [
         {
             "source": "1141001_LO1",
-            "traget": "การทดสอบสมมติฐาน",
+            "target": "การทดสอบสมมติฐาน",
             "data": {
-                "name": "การทดสอบสมมติฐาน",
+                "name": "isabletoAnalyzeProblemOf",
                 "title": "can_analyze"
             }
         },
         {
             "source": "1141001_LO1",
-            "traget": "การประมาณค่าพารามิเตอร์",
+            "target": "การประมาณค่าพารามิเตอร์",
             "data": {
-                "name": "การประมาณค่าพารามิเตอร์",
+                "name": "isabletoAnalyzeProblemOf",
                 "title": "can_analyze"
             }
         },
         {
             "source": "1141001_LO1",
-            "traget": "การสุ่มตัวอย่าง",
+            "target": "การสุ่มตัวอย่าง",
             "data": {
-                "name": "การสุ่มตัวอย่าง",
+                "name": "isabletoAnalyzeProblemOf",
                 "title": "can_analyze"
             }
         },
         {
             "source": "1141001_LO1",
-            "traget": "ระเบียบวิธีการทางสถิติ",
+            "target": "ระเบียบวิธีการทางสถิติ",
             "data": {
-                "name": "ระเบียบวิธีการทางสถิติ",
+                "name": "isabletoAnalyzeProblemOf",
                 "title": "can_analyze"
             }
         },
         {
             "source": "1141001_LO1",
-            "traget": "การทดสอบสมมติฐาน",
+            "target": "การทดสอบสมมติฐาน",
             "data": {
-                "name": "การทดสอบสมมติฐาน",
+                "name": "isabletoApplyKnowledgeOf",
                 "title": "can_apply"
             }
         },
         {
             "source": "1141001_LO1",
-            "traget": "การประมาณค่าพารามิเตอร์",
+            "target": "การประมาณค่าพารามิเตอร์",
             "data": {
-                "name": "การประมาณค่าพารามิเตอร์",
+                "name": "isabletoApplyKnowledgeOf",
                 "title": "can_apply"
             }
         },
         {
             "source": "1141001_LO1",
-            "traget": "การสุ่มตัวอย่าง",
+            "target": "การสุ่มตัวอย่าง",
             "data": {
-                "name": "การสุ่มตัวอย่าง",
+                "name": "isabletoApplyKnowledgeOf",
                 "title": "can_apply"
             }
         },
         {
             "source": "1141001_LO1",
-            "traget": "ระเบียบวิธีการทางสถิติ",
+            "target": "ระเบียบวิธีการทางสถิติ",
             "data": {
-                "name": "ระเบียบวิธีการทางสถิติ",
+                "name": "isabletoApplyKnowledgeOf",
                 "title": "can_apply"
             }
         },
         {
             "source": "1141001_LO1",
-            "traget": "การทดสอบสมมติฐาน",
+            "target": "การทดสอบสมมติฐาน",
             "data": {
-                "name": "การทดสอบสมมติฐาน",
+                "name": "isabletoUnderstandKnowledgeOf",
                 "title": "can_understand"
             }
         },
         {
             "source": "1141001_LO1",
-            "traget": "การประมาณค่าพารามิเตอร์",
+            "target": "การประมาณค่าพารามิเตอร์",
             "data": {
-                "name": "การประมาณค่าพารามิเตอร์",
+                "name": "isabletoUnderstandKnowledgeOf",
                 "title": "can_understand"
             }
         },
         {
             "source": "1141001_LO1",
-            "traget": "การสุ่มตัวอย่าง",
+            "target": "การสุ่มตัวอย่าง",
             "data": {
-                "name": "การสุ่มตัวอย่าง",
+                "name": "isabletoUnderstandKnowledgeOf",
                 "title": "can_understand"
             }
         },
         {
             "source": "1141001_LO1",
-            "traget": "ระเบียบวิธีการทางสถิติ",
+            "target": "ระเบียบวิธีการทางสถิติ",
             "data": {
-                "name": "ระเบียบวิธีการทางสถิติ",
+                "name": "isabletoUnderstandKnowledgeOf",
                 "title": "can_understand"
             }
         },
         {
             "source": "1141001_LO2",
-            "traget": "การวิเคราะห์การถดถอยเชิงเส้นแบบง่ายและการวิเคราะห์สหสัมพันธ์",
+            "target": "การวิเคราะห์การถดถอยเชิงเส้นแบบง่ายและการวิเคราะห์สหสัมพันธ์",
             "data": {
-                "name": "การวิเคราะห์การถดถอยเชิงเส้นแบบง่ายและการวิเคราะห์สหสัมพันธ์",
+                "name": "isabletoAnalyzeProblemOf",
                 "title": "can_analyze"
             }
         },
         {
             "source": "1141001_LO2",
-            "traget": "การวิเคราะห์การถดถอยเชิงเส้นแบบง่ายและการวิเคราะห์สหสัมพันธ์",
+            "target": "การวิเคราะห์การถดถอยเชิงเส้นแบบง่ายและการวิเคราะห์สหสัมพันธ์",
             "data": {
-                "name": "การวิเคราะห์การถดถอยเชิงเส้นแบบง่ายและการวิเคราะห์สหสัมพันธ์",
+                "name": "isabletoApplyKnowledgeOf",
                 "title": "can_apply"
             }
         },
         {
             "source": "1141001_LO2",
-            "traget": "การวิเคราะห์การถดถอยเชิงเส้นแบบง่ายและการวิเคราะห์สหสัมพันธ์",
+            "target": "การวิเคราะห์การถดถอยเชิงเส้นแบบง่ายและการวิเคราะห์สหสัมพันธ์",
             "data": {
-                "name": "การวิเคราะห์การถดถอยเชิงเส้นแบบง่ายและการวิเคราะห์สหสัมพันธ์",
+                "name": "isabletoUnderstandKnowledgeOf",
                 "title": "can_understand"
             }
         },
         {
             "source": "1141001_LO3",
-            "traget": "ระบบสมการเชิงเส้น",
+            "target": "ระบบสมการเชิงเส้น",
             "data": {
-                "name": "ระบบสมการเชิงเส้น",
+                "name": "isabletoAnalyzeProblemOf",
                 "title": "can_analyze"
             }
         },
         {
             "source": "1141001_LO3",
-            "traget": "ระบบสมการเชิงเส้น",
+            "target": "ระบบสมการเชิงเส้น",
             "data": {
-                "name": "ระบบสมการเชิงเส้น",
+                "name": "isabletoApplyKnowledgeOf",
                 "title": "can_apply"
             }
         },
         {
             "source": "1141001_LO3",
-            "traget": "ระบบสมการเชิงเส้น",
+            "target": "ระบบสมการเชิงเส้น",
             "data": {
-                "name": "ระบบสมการเชิงเส้น",
+                "name": "isabletoUnderstandKnowledgeOf",
                 "title": "can_understand"
             }
         },
         {
             "source": "1141001_LO4",
-            "traget": "รูปแบบมาร์คอฟ",
+            "target": "รูปแบบมาร์คอฟ",
             "data": {
-                "name": "รูปแบบมาร์คอฟ",
+                "name": "isabletoAnalyzeProblemOf",
                 "title": "can_analyze"
             }
         },
         {
             "source": "1141001_LO4",
-            "traget": "รูปแบบมาร์คอฟ",
+            "target": "รูปแบบมาร์คอฟ",
             "data": {
-                "name": "รูปแบบมาร์คอฟ",
+                "name": "isabletoApplyKnowledgeOf",
                 "title": "can_apply"
             }
         },
         {
             "source": "1141001_LO4",
-            "traget": "รูปแบบมาร์คอฟ",
+            "target": "รูปแบบมาร์คอฟ",
             "data": {
-                "name": "รูปแบบมาร์คอฟ",
+                "name": "isabletoUnderstandKnowledgeOf",
                 "title": "can_understand"
             }
         },
